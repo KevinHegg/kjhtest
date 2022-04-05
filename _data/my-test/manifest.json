@@ -8,6 +8,26 @@
         "id": "https://KevinHegg.github.io/kjhtest/my-test/canvas-1/canvas",
         "type": "Canvas",
         "duration": 632,
+        "annotations": [
+          
+          {
+            "type": "AnnotationPage",
+            "id": "https://KevinHegg.github.io/kjhtest/my-test/canvas-1/canvas/environment.json",
+            "label": "Environment"
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://KevinHegg.github.io/kjhtest/my-test/canvas-1/canvas/transcription.json",
+            "label": "Transcription"
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://KevinHegg.github.io/kjhtest/my-test/canvas-1/canvas/speaker.json",
+            "label": "Speaker"
+          }
+        ],
         "items": [
           {
             "id": "https://KevinHegg.github.io/kjhtest/my-test/canvas-1/paintings",
