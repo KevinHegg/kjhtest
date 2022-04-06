@@ -1,0 +1,9 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://KevinHegg.github.io/kjhtest/maf-test-sans-audacity-/canvas-1/canvas/and-you-can-speak-it-and-you-can-give--for-an-example.json",
+  "type": "AnnotationPage",
+  "label": "And you can speak it and you can give, for an example",
+  "items": [
+
+  ]
+}
