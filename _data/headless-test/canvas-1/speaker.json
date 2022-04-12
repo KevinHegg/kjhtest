@@ -14,14 +14,14 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "\"<font color=\"\"green\"\"><b>Mary Awkard Fairfax</b></font>\"",
+        "value": "\"<font color=\"\"#008080\"\"><b>Joanne V. Gabbin</b></font>\"",
         "format": "text/plain"
       },
       "target": {
         "source": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
-          "t": "36.06,36.75"
+          "t": "11.32,25.72"
         }
       }
     },
@@ -35,14 +35,14 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "\"<font color=\"\"red\"\"><b>Cheryl M.</b></font>\"",
+        "value": "\"<font color=\"\"#008080\"\"><b>Joanne V. Gabbin</b></font>\"",
         "format": "text/plain"
       },
       "target": {
         "source": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
-          "t": "37.44,38.43"
+          "t": "25.78,41.32"
         }
       }
     },
@@ -56,14 +56,14 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "\"<font color=\"\"green\"\"><b>Mary Awkard Fairfax</b></font>\"",
+        "value": "\"<font color=\"\"#008080\"\"><b>Joanne V. Gabbin</b></font>\"",
         "format": "text/plain"
       },
       "target": {
         "source": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
-          "t": "38.46,39.57"
+          "t": "41.32,44.08"
         }
       }
     },
@@ -77,14 +77,14 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "\"<font color=\"\"red\"\"><b>Cheryl M.</b></font>\"",
+        "value": "\"<font color=\"\"navy\"\"><b>Sonia Sanchez</b></font>\"",
         "format": "text/plain"
       },
       "target": {
         "source": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
-          "t": "40.32,42.42"
+          "t": "44.72,52.37"
         }
       }
     },
@@ -98,14 +98,14 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "\"<font color=\"\"green\"\"><b>Mary Awkard Fairfax</b></font>\"",
+        "value": "\"<font color=\"\"navy\"\"><b>Sonia Sanchez</b></font>\"",
         "format": "text/plain"
       },
       "target": {
         "source": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
-          "t": "42.45,42.87"
+          "t": "52.37,62.9"
         }
       }
     },
@@ -119,14 +119,14 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "\"<font color=\"\"red\"\"><b>Cheryl M.</b></font>\"",
+        "value": "\"<font color=\"\"navy\"\"><b>Sonia Sanchez</b></font>\"",
         "format": "text/plain"
       },
       "target": {
         "source": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
-          "t": "43.83,45.54"
+          "t": "62.9,74.15"
         }
       }
     },
@@ -140,14 +140,14 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "\"<font color=\"\"green\"\"><b>Mary Awkard Fairfax</b></font>\"",
+        "value": "\"<font color=\"\"navy\"\"><b>Sonia Sanchez</b></font>\"",
         "format": "text/plain"
       },
       "target": {
         "source": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
-          "t": "45.72,74.52"
+          "t": "74.15,86.81"
         }
       }
     },
@@ -161,14 +161,14 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "\"<font color=\"\"red\"\"><b>Cheryl M.</b></font>\"",
+        "value": "\"<font color=\"\"navy\"\"><b>Sonia Sanchez</b></font>\"",
         "format": "text/plain"
       },
       "target": {
         "source": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
-          "t": "74.97,81.09"
+          "t": "86.81,97.46"
         }
       }
     },
@@ -182,14 +182,14 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "\"<font color=\"\"green\"\"><b>Mary Awkard Fairfax</b></font>\"",
+        "value": "\"<font color=\"\"navy\"\"><b>Sonia Sanchez</b></font>\"",
         "format": "text/plain"
       },
       "target": {
         "source": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
-          "t": "81.87,117.66"
+          "t": "97.46,107.72"
         }
       }
     },
@@ -203,14 +203,14 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "\"<font color=\"\"red\"\"><b>Cheryl M.</b></font>\"",
+        "value": "\"<font color=\"\"navy\"\"><b>Sonia Sanchez</b></font>\"",
         "format": "text/plain"
       },
       "target": {
         "source": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
-          "t": "118.74,120.3"
+          "t": "108.29,122.45"
         }
       }
     },
@@ -224,14 +224,14 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "\"<font color=\"\"green\"\"><b>Mary Awkard Fairfax</b></font>\"",
+        "value": "\"<font color=\"\"navy\"\"><b>Sonia Sanchez</b></font>\"",
         "format": "text/plain"
       },
       "target": {
         "source": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
-          "t": "121.14,147.51"
+          "t": "122.81,133.88"
         }
       }
     },
@@ -245,14 +245,14 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "\"<font color=\"\"green\"\"><b>Mary Awkard Fairfax</b></font>\"",
+        "value": "\"<font color=\"\"navy\"\"><b>Sonia Sanchez</b></font>\"",
         "format": "text/plain"
       },
       "target": {
         "source": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
-          "t": "147.87,149.85"
+          "t": "133.88,146.51"
         }
       }
     },
@@ -266,14 +266,14 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "\"<font color=\"\"green\"\"><b>Mary Awkard Fairfax</b></font>\"",
+        "value": "\"<font color=\"\"navy\"\"><b>Sonia Sanchez</b></font>\"",
         "format": "text/plain"
       },
       "target": {
         "source": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
-          "t": "149.85,156.0"
+          "t": "146.51,156.77"
         }
       }
     },
@@ -287,14 +287,14 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "\"<font color=\"\"red\"\"><b>Cheryl M.</b></font>\"",
+        "value": "\"<font color=\"\"navy\"\"><b>Sonia Sanchez</b></font>\"",
         "format": "text/plain"
       },
       "target": {
         "source": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
-          "t": "156.21,158.58"
+          "t": "156.77,166.04"
         }
       }
     },
@@ -308,14 +308,14 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "\"<font color=\"\"green\"\"><b>Mary Awkard Fairfax</b></font>\"",
+        "value": "\"<font color=\"\"navy\"\"><b>Sonia Sanchez</b></font>\"",
         "format": "text/plain"
       },
       "target": {
         "source": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
-          "t": "159.0,172.02"
+          "t": "166.04,176.78"
         }
       }
     },
@@ -329,14 +329,14 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "\"<font color=\"\"red\"\"><b>Cheryl M.</b></font>\"",
+        "value": "\"<font color=\"\"navy\"\"><b>Sonia Sanchez</b></font>\"",
         "format": "text/plain"
       },
       "target": {
         "source": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
-          "t": "172.45,175.42"
+          "t": "176.78,188.12"
         }
       }
     },
@@ -350,14 +350,14 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "\"<font color=\"\"green\"\"><b>Mary Awkard Fairfax</b></font>\"",
+        "value": "\"<font color=\"\"navy\"\"><b>Sonia Sanchez</b></font>\"",
         "format": "text/plain"
       },
       "target": {
         "source": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
-          "t": "175.93,199.51"
+          "t": "188.12,199.1"
         }
       }
     },
@@ -371,14 +371,14 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "\"<font color=\"\"red\"\"><b>Cheryl M.</b></font>\"",
+        "value": "\"<font color=\"\"navy\"\"><b>Sonia Sanchez</b></font>\"",
         "format": "text/plain"
       },
       "target": {
         "source": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
-          "t": "201.76,206.17"
+          "t": "199.13,208.73"
         }
       }
     },
@@ -392,14 +392,14 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "\"<font color=\"\"green\"\"><b>Mary Awkard Fairfax</b></font>\"",
+        "value": "\"<font color=\"\"navy\"\"><b>Sonia Sanchez</b></font>\"",
         "format": "text/plain"
       },
       "target": {
         "source": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
-          "t": "207.34,245.26"
+          "t": "208.76,218.72"
         }
       }
     },
@@ -413,14 +413,14 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "\"<font color=\"\"green\"\"><b>Mary Awkard Fairfax</b></font>\"",
+        "value": "\"<font color=\"\"navy\"\"><b>Sonia Sanchez</b></font>\"",
         "format": "text/plain"
       },
       "target": {
         "source": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
-          "t": "245.26,245.98"
+          "t": "218.72,229.58"
         }
       }
     },
@@ -434,14 +434,14 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "\"<font color=\"\"green\"\"><b>Mary Awkard Fairfax</b></font>\"",
+        "value": "\"<font color=\"\"navy\"\"><b>Sonia Sanchez</b></font>\"",
         "format": "text/plain"
       },
       "target": {
         "source": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
-          "t": "246.07,247.33"
+          "t": "229.58,238.64"
         }
       }
     },
@@ -455,14 +455,14 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "\"<font color=\"\"green\"\"><b>Mary Awkard Fairfax</b></font>\"",
+        "value": "\"<font color=\"\"navy\"\"><b>Sonia Sanchez</b></font>\"",
         "format": "text/plain"
       },
       "target": {
         "source": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
-          "t": "247.23,263.4"
+          "t": "238.64,251.39"
         }
       }
     },
@@ -476,14 +476,14 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "\"<font color=\"\"green\"\"><b>Mary Awkard Fairfax</b></font>\"",
+        "value": "\"<font color=\"\"navy\"\"><b>Sonia Sanchez</b></font>\"",
         "format": "text/plain"
       },
       "target": {
         "source": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
-          "t": "263.32,264.19"
+          "t": "251.39,261.47"
         }
       }
     },
@@ -497,14 +497,14 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "\"<font color=\"\"green\"\"><b>Mary Awkard Fairfax</b></font>\"",
+        "value": "\"<font color=\"\"navy\"\"><b>Sonia Sanchez</b></font>\"",
         "format": "text/plain"
       },
       "target": {
         "source": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
-          "t": "264.0,273.24"
+          "t": "261.47,271.85"
         }
       }
     },
@@ -518,14 +518,14 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "\"<font color=\"\"red\"\"><b>Cheryl M.</b></font>\"",
+        "value": "\"<font color=\"\"navy\"\"><b>Sonia Sanchez</b></font>\"",
         "format": "text/plain"
       },
       "target": {
         "source": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
-          "t": "273.31,274.18"
+          "t": "271.85,274.91"
         }
       }
     },
@@ -539,14 +539,14 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "\"<font color=\"\"green\"\"><b>Mary Awkard Fairfax</b></font>\"",
+        "value": "\"<font color=\"\"#008080\"\"><b>Joanne V. Gabbin</b></font>\"",
         "format": "text/plain"
       },
       "target": {
         "source": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
-          "t": "274.21,284.44"
+          "t": "276.09,287.31"
         }
       }
     },
@@ -560,14 +560,14 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "\"<font color=\"\"red\"\"><b>Cheryl M.</b></font>\"",
+        "value": "\"<font color=\"\"#008080\"\"><b>Joanne V. Gabbin</b></font>\"",
         "format": "text/plain"
       },
       "target": {
         "source": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
-          "t": "284.44,293.71"
+          "t": "287.31,299.97"
         }
       }
     },
@@ -581,14 +581,14 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "\"<font color=\"\"green\"\"><b>Mary Awkard Fairfax</b></font>\"",
+        "value": "\"<font color=\"\"#008080\"\"><b>Joanne V. Gabbin</b></font>\"",
         "format": "text/plain"
       },
       "target": {
         "source": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
-          "t": "294.76,312.34"
+          "t": "300.48,314.19"
         }
       }
     },
@@ -602,14 +602,14 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "\"<font color=\"\"red\"\"><b>Cheryl M.</b></font>\"",
+        "value": "\"<font color=\"\"#008080\"\"><b>Joanne V. Gabbin</b></font>\"",
         "format": "text/plain"
       },
       "target": {
         "source": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
-          "t": "312.0,315.3"
+          "t": "314.19,323.49"
         }
       }
     },
@@ -623,14 +623,14 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "\"<font color=\"\"green\"\"><b>Mary Awkard Fairfax</b></font>\"",
+        "value": "\"<font color=\"\"navy\"\"><b>Sonia Sanchez</b></font>\"",
         "format": "text/plain"
       },
       "target": {
         "source": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
-          "t": "315.0,338.31"
+          "t": "324.21,334.5"
         }
       }
     },
@@ -644,14 +644,14 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "\"<font color=\"\"red\"\"><b>Cheryl M.</b></font>\"",
+        "value": "\"<font color=\"\"navy\"\"><b>Sonia Sanchez</b></font>\"",
         "format": "text/plain"
       },
       "target": {
         "source": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
-          "t": "338.49,341.94"
+          "t": "334.5,347.4"
         }
       }
     },
@@ -665,14 +665,14 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "\"<font color=\"\"green\"\"><b>Mary Awkard Fairfax</b></font>\"",
+        "value": "\"<font color=\"\"navy\"\"><b>Sonia Sanchez</b></font>\"",
         "format": "text/plain"
       },
       "target": {
         "source": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
-          "t": "342.03,389.88"
+          "t": "347.4,358.65"
         }
       }
     },
@@ -686,14 +686,14 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "\"<font color=\"\"red\"\"><b>Cheryl M.</b></font>\"",
+        "value": "\"<font color=\"\"navy\"\"><b>Sonia Sanchez</b></font>\"",
         "format": "text/plain"
       },
       "target": {
         "source": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
-          "t": "390.63,394.05"
+          "t": "358.65,368.61"
         }
       }
     },
@@ -707,14 +707,14 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "\"<font color=\"\"green\"\"><b>Mary Awkard Fairfax</b></font>\"",
+        "value": "\"<font color=\"\"navy\"\"><b>Sonia Sanchez</b></font>\"",
         "format": "text/plain"
       },
       "target": {
         "source": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
-          "t": "398.91,402.3"
+          "t": "368.76,378.24"
         }
       }
     },
@@ -728,14 +728,14 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "\"<font color=\"\"red\"\"><b>Cheryl M.</b></font>\"",
+        "value": "\"<font color=\"\"navy\"\"><b>Sonia Sanchez</b></font>\"",
         "format": "text/plain"
       },
       "target": {
         "source": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
-          "t": "402.87,409.44"
+          "t": "378.24,389.01"
         }
       }
     },
@@ -749,14 +749,14 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "\"<font color=\"\"green\"\"><b>Mary Awkard Fairfax</b></font>\"",
+        "value": "\"<font color=\"\"navy\"\"><b>Sonia Sanchez</b></font>\"",
         "format": "text/plain"
       },
       "target": {
         "source": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
-          "t": "409.44,412.74"
+          "t": "389.01,398.82"
         }
       }
     },
@@ -770,14 +770,14 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "\"<font color=\"\"red\"\"><b>Cheryl M.</b></font>\"",
+        "value": "\"<font color=\"\"navy\"\"><b>Sonia Sanchez</b></font>\"",
         "format": "text/plain"
       },
       "target": {
         "source": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
-          "t": "413.7,415.41"
+          "t": "398.82,409.92"
         }
       }
     },
@@ -791,14 +791,14 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "\"<font color=\"\"green\"\"><b>Mary Awkard Fairfax</b></font>\"",
+        "value": "\"<font color=\"\"navy\"\"><b>Sonia Sanchez</b></font>\"",
         "format": "text/plain"
       },
       "target": {
         "source": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
-          "t": "416.22,426.78"
+          "t": "409.92,419.01"
         }
       }
     },
@@ -812,14 +812,14 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "\"<font color=\"\"red\"\"><b>Cheryl M.</b></font>\"",
+        "value": "\"<font color=\"\"navy\"\"><b>Sonia Sanchez</b></font>\"",
         "format": "text/plain"
       },
       "target": {
         "source": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
-          "t": "426.9,427.41"
+          "t": "419.04,429.09"
         }
       }
     },
@@ -833,14 +833,14 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "\"<font color=\"\"green\"\"><b>Mary Awkard Fairfax</b></font>\"",
+        "value": "\"<font color=\"\"navy\"\"><b>Sonia Sanchez</b></font>\"",
         "format": "text/plain"
       },
       "target": {
         "source": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
-          "t": "427.47,432.51"
+          "t": "429.12,440.22"
         }
       }
     },
@@ -854,14 +854,14 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "\"<font color=\"\"red\"\"><b>Cheryl M.</b></font>\"",
+        "value": "\"<font color=\"\"navy\"\"><b>Sonia Sanchez</b></font>\"",
         "format": "text/plain"
       },
       "target": {
         "source": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
-          "t": "433.38,434.88"
+          "t": "440.28,451.38"
         }
       }
     },
@@ -875,14 +875,14 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "\"<font color=\"\"green\"\"><b>Mary Awkard Fairfax</b></font>\"",
+        "value": "\"<font color=\"\"navy\"\"><b>Sonia Sanchez</b></font>\"",
         "format": "text/plain"
       },
       "target": {
         "source": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
-          "t": "435.84,489.36"
+          "t": "451.53,460.95"
         }
       }
     },
@@ -896,14 +896,14 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "\"<font color=\"\"red\"\"><b>Cheryl M.</b></font>\"",
+        "value": "\"<font color=\"\"navy\"\"><b>Sonia Sanchez</b></font>\"",
         "format": "text/plain"
       },
       "target": {
         "source": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
-          "t": "489.72,492.18"
+          "t": "460.95,469.32"
         }
       }
     },
@@ -917,14 +917,14 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "\"<font color=\"\"green\"\"><b>Mary Awkard Fairfax</b></font>\"",
+        "value": "\"<font color=\"\"navy\"\"><b>Sonia Sanchez</b></font>\"",
         "format": "text/plain"
       },
       "target": {
         "source": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
-          "t": "492.3,542.52"
+          "t": "469.32,477.99"
         }
       }
     },
@@ -938,14 +938,14 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "\"<font color=\"\"red\"\"><b>Cheryl M.</b></font>\"",
+        "value": "\"<font color=\"\"navy\"\"><b>Sonia Sanchez</b></font>\"",
         "format": "text/plain"
       },
       "target": {
         "source": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
-          "t": "546.39,546.42"
+          "t": "478.35,486.72"
         }
       }
     },
@@ -959,14 +959,14 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "\"<font color=\"\"green\"\"><b>Mary Awkard Fairfax</b></font>\"",
+        "value": "\"<font color=\"\"navy\"\"><b>Sonia Sanchez</b></font>\"",
         "format": "text/plain"
       },
       "target": {
         "source": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
-          "t": "546.42,548.52"
+          "t": "486.72,498.15"
         }
       }
     },
@@ -980,14 +980,14 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "\"<font color=\"\"red\"\"><b>Cheryl M.</b></font>\"",
+        "value": "\"<font color=\"\"navy\"\"><b>Sonia Sanchez</b></font>\"",
         "format": "text/plain"
       },
       "target": {
         "source": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
-          "t": "548.52,548.55"
+          "t": "498.15,504.0"
         }
       }
     },
@@ -1001,14 +1001,14 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "\"<font color=\"\"green\"\"><b>Mary Awkard Fairfax</b></font>\"",
+        "value": "\"<font color=\"\"#008080\"\"><b>Joanne V. Gabbin</b></font>\"",
         "format": "text/plain"
       },
       "target": {
         "source": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
-          "t": "551.25,556.89"
+          "t": "504.24,512.91"
         }
       }
     },
@@ -1022,14 +1022,14 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "\"<font color=\"\"red\"\"><b>Cheryl M.</b></font>\"",
+        "value": "\"<font color=\"\"navy\"\"><b>Sonia Sanchez</b></font>\"",
         "format": "text/plain"
       },
       "target": {
         "source": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
-          "t": "557.4,562.44"
+          "t": "512.94,520.23"
         }
       }
     },
@@ -1043,14 +1043,14 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "\"<font color=\"\"green\"\"><b>Mary Awkard Fairfax</b></font>\"",
+        "value": "\"<font color=\"\"#008080\"\"><b>Joanne V. Gabbin</b></font>\"",
         "format": "text/plain"
       },
       "target": {
         "source": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
-          "t": "562.44,563.58"
+          "t": "522.48,535.68"
         }
       }
     },
@@ -1064,14 +1064,14 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "\"<font color=\"\"red\"\"><b>Cheryl M.</b></font>\"",
+        "value": "\"<font color=\"\"#008080\"\"><b>Joanne V. Gabbin</b></font>\"",
         "format": "text/plain"
       },
       "target": {
         "source": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
-          "t": "563.58,565.92"
+          "t": "536.07,550.77"
         }
       }
     },
@@ -1085,14 +1085,14 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "\"<font color=\"\"green\"\"><b>Mary Awkard Fairfax</b></font>\"",
+        "value": "\"<font color=\"\"#008080\"\"><b>Joanne V. Gabbin</b></font>\"",
         "format": "text/plain"
       },
       "target": {
         "source": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
-          "t": "565.99,771.73"
+          "t": "551.61,565.89"
         }
       }
     },
@@ -1106,14 +1106,14 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "\"<font color=\"\"red\"\"><b>Cheryl M.</b></font>\"",
+        "value": "\"<font color=\"\"#008080\"\"><b>Joanne V. Gabbin</b></font>\"",
         "format": "text/plain"
       },
       "target": {
         "source": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
-          "t": "596.35,599.44"
+          "t": "565.89,578.61"
         }
       }
     },
@@ -1127,14 +1127,14 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "\"<font color=\"\"green\"\"><b>Mary Awkard Fairfax</b></font>\"",
+        "value": "\"<font color=\"\"navy\"\"><b>Sonia Sanchez</b></font>\"",
         "format": "text/plain"
       },
       "target": {
         "source": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
-          "t": "599.03,741.14"
+          "t": "580.29,588.45"
         }
       }
     },
@@ -1148,14 +1148,14 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "\"<font color=\"\"red\"\"><b>Cheryl M.</b></font>\"",
+        "value": "\"<font color=\"\"navy\"\"><b>Sonia Sanchez</b></font>\"",
         "format": "text/plain"
       },
       "target": {
         "source": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
-          "t": "612.08,613.79"
+          "t": "588.45,600.87"
         }
       }
     },
@@ -1169,14 +1169,14 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "\"<font color=\"\"green\"\"><b>Mary Awkard Fairfax</b></font>\"",
+        "value": "\"<font color=\"\"navy\"\"><b>Sonia Sanchez</b></font>\"",
         "format": "text/plain"
       },
       "target": {
         "source": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
-          "t": "679.46,750.41"
+          "t": "600.87,612.6"
         }
       }
     },
@@ -1190,14 +1190,14 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "\"<font color=\"\"red\"\"><b>Cheryl M.</b></font>\"",
+        "value": "\"<font color=\"\"navy\"\"><b>Sonia Sanchez</b></font>\"",
         "format": "text/plain"
       },
       "target": {
         "source": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
-          "t": "752.69,752.72"
+          "t": "612.6,626.04"
         }
       }
     },
@@ -1211,14 +1211,14 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "\"<font color=\"\"green\"\"><b>Mary Awkard Fairfax</b></font>\"",
+        "value": "\"<font color=\"\"navy\"\"><b>Sonia Sanchez</b></font>\"",
         "format": "text/plain"
       },
       "target": {
         "source": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
-          "t": "752.72,757.52"
+          "t": "626.04,635.16"
         }
       }
     },
@@ -1232,14 +1232,14 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "\"<font color=\"\"red\"\"><b>Cheryl M.</b></font>\"",
+        "value": "\"<font color=\"\"navy\"\"><b>Sonia Sanchez</b></font>\"",
         "format": "text/plain"
       },
       "target": {
         "source": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
-          "t": "757.58,758.81"
+          "t": "635.16,643.38"
         }
       }
     },
@@ -1253,14 +1253,14 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "\"<font color=\"\"green\"\"><b>Mary Awkard Fairfax</b></font>\"",
+        "value": "\"<font color=\"\"navy\"\"><b>Sonia Sanchez</b></font>\"",
         "format": "text/plain"
       },
       "target": {
         "source": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
-          "t": "758.81,759.53"
+          "t": "643.38,651.93"
         }
       }
     },
@@ -1274,14 +1274,14 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "\"<font color=\"\"red\"\"><b>Cheryl M.</b></font>\"",
+        "value": "\"<font color=\"\"navy\"\"><b>Sonia Sanchez</b></font>\"",
         "format": "text/plain"
       },
       "target": {
         "source": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
-          "t": "759.71,763.67"
+          "t": "651.93,660.93"
         }
       }
     },
@@ -1295,14 +1295,14 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "\"<font color=\"\"green\"\"><b>Mary Awkard Fairfax</b></font>\"",
+        "value": "\"<font color=\"\"navy\"\"><b>Sonia Sanchez</b></font>\"",
         "format": "text/plain"
       },
       "target": {
         "source": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
-          "t": "763.67,771.74"
+          "t": "660.93,669.36"
         }
       }
     },
@@ -1316,14 +1316,14 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "\"<font color=\"\"red\"\"><b>Cheryl M.</b></font>\"",
+        "value": "\"<font color=\"\"navy\"\"><b>Sonia Sanchez</b></font>\"",
         "format": "text/plain"
       },
       "target": {
         "source": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
-          "t": "772.28,775.37"
+          "t": "669.36,678.63"
         }
       }
     },
@@ -1337,14 +1337,14 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "\"<font color=\"\"green\"\"><b>Mary Awkard Fairfax</b></font>\"",
+        "value": "\"<font color=\"\"navy\"\"><b>Sonia Sanchez</b></font>\"",
         "format": "text/plain"
       },
       "target": {
         "source": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
-          "t": "777.06,778.41"
+          "t": "678.63,689.16"
         }
       }
     },
@@ -1358,14 +1358,14 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "\"<font color=\"\"red\"\"><b>Cheryl M.</b></font>\"",
+        "value": "\"<font color=\"\"navy\"\"><b>Sonia Sanchez</b></font>\"",
         "format": "text/plain"
       },
       "target": {
         "source": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
-          "t": "778.5,786.66"
+          "t": "689.16,699.66"
         }
       }
     },
@@ -1379,14 +1379,14 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "\"<font color=\"\"green\"\"><b>Mary Awkard Fairfax</b></font>\"",
+        "value": "\"<font color=\"\"navy\"\"><b>Sonia Sanchez</b></font>\"",
         "format": "text/plain"
       },
       "target": {
         "source": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
-          "t": "786.03,841.35"
+          "t": "699.66,707.7"
         }
       }
     },
@@ -1400,14 +1400,14 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "\"<font color=\"\"red\"\"><b>Cheryl M.</b></font>\"",
+        "value": "\"<font color=\"\"navy\"\"><b>Sonia Sanchez</b></font>\"",
         "format": "text/plain"
       },
       "target": {
         "source": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
-          "t": "841.53,843.18"
+          "t": "707.7,716.64"
         }
       }
     },
@@ -1421,14 +1421,14 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "\"<font color=\"\"green\"\"><b>Mary Awkard Fairfax</b></font>\"",
+        "value": "\"<font color=\"\"navy\"\"><b>Sonia Sanchez</b></font>\"",
         "format": "text/plain"
       },
       "target": {
         "source": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
-          "t": "843.03,1057.83"
+          "t": "716.64,720.21"
         }
       }
     },
@@ -1442,14 +1442,14 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "\"<font color=\"\"red\"\"><b>Cheryl M.</b></font>\"",
+        "value": "\"<font color=\"\"#008080\"\"><b>Joanne V. Gabbin</b></font>\"",
         "format": "text/plain"
       },
       "target": {
         "source": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
-          "t": "1060.95,1062.12"
+          "t": "721.079,737.009"
         }
       }
     },
@@ -1463,14 +1463,14 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "\"<font color=\"\"green\"\"><b>Mary Awkard Fairfax</b></font>\"",
+        "value": "\"<font color=\"\"#008080\"\"><b>Joanne V. Gabbin</b></font>\"",
         "format": "text/plain"
       },
       "target": {
         "source": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
-          "t": "1062.0,1102.47"
+          "t": "737.009,751.979"
         }
       }
     },
@@ -1484,14 +1484,14 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "\"<font color=\"\"red\"\"><b>Cheryl M.</b></font>\"",
+        "value": "\"<font color=\"\"#008080\"\"><b>Joanne V. Gabbin</b></font>\"",
         "format": "text/plain"
       },
       "target": {
         "source": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
-          "t": "1103.19,1103.22"
+          "t": "751.979,761.039"
         }
       }
     },
@@ -1505,14 +1505,14 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "\"<font color=\"\"green\"\"><b>Mary Awkard Fairfax</b></font>\"",
+        "value": "\"<font color=\"\"navy\"\"><b>Sonia Sanchez</b></font>\"",
         "format": "text/plain"
       },
       "target": {
         "source": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
-          "t": "1106.55,1108.32"
+          "t": "761.97,767.49"
         }
       }
     },
@@ -1526,14 +1526,14 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "\"<font color=\"\"red\"\"><b>Cheryl M.</b></font>\"",
+        "value": "\"<font color=\"\"navy\"\"><b>Sonia Sanchez</b></font>\"",
         "format": "text/plain"
       },
       "target": {
         "source": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
-          "t": "1108.38,1109.43"
+          "t": "767.55,768.09"
         }
       }
     },
@@ -1547,14 +1547,14 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "\"<font color=\"\"green\"\"><b>Mary Awkard Fairfax</b></font>\"",
+        "value": "\"<font color=\"\"navy\"\"><b>Sonia Sanchez</b></font>\"",
         "format": "text/plain"
       },
       "target": {
         "source": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
-          "t": "1110.51,1114.56"
+          "t": "768.24,776.04"
         }
       }
     },
@@ -1568,14 +1568,14 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "\"<font color=\"\"green\"\"><b>Mary Awkard Fairfax</b></font>\"",
+        "value": "\"<font color=\"\"navy\"\"><b>Sonia Sanchez</b></font>\"",
         "format": "text/plain"
       },
       "target": {
         "source": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
-          "t": "1115.04,1116.12"
+          "t": "778.77,792.18"
         }
       }
     },
@@ -1589,14 +1589,14 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "\"<font color=\"\"green\"\"><b>Mary Awkard Fairfax</b></font>\"",
+        "value": "\"<font color=\"\"navy\"\"><b>Sonia Sanchez</b></font>\"",
         "format": "text/plain"
       },
       "target": {
         "source": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
-          "t": "1116.0,1144.59"
+          "t": "792.18,803.52"
         }
       }
     },
@@ -1610,14 +1610,14 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "\"<font color=\"\"red\"\"><b>Cheryl M.</b></font>\"",
+        "value": "\"<font color=\"\"navy\"\"><b>Sonia Sanchez</b></font>\"",
         "format": "text/plain"
       },
       "target": {
         "source": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
-          "t": "1145.28,1145.94"
+          "t": "803.52,811.74"
         }
       }
     },
@@ -1631,14 +1631,14 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "\"<font color=\"\"green\"\"><b>Mary Awkard Fairfax</b></font>\"",
+        "value": "\"<font color=\"\"navy\"\"><b>Sonia Sanchez</b></font>\"",
         "format": "text/plain"
       },
       "target": {
         "source": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
-          "t": "1146.32,1217.3"
+          "t": "811.77,821.16"
         }
       }
     },
@@ -1652,14 +1652,14 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "\"<font color=\"\"red\"\"><b>Cheryl M.</b></font>\"",
+        "value": "\"<font color=\"\"navy\"\"><b>Sonia Sanchez</b></font>\"",
         "format": "text/plain"
       },
       "target": {
         "source": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
-          "t": "1217.33,1219.43"
+          "t": "821.16,831.18"
         }
       }
     },
@@ -1673,14 +1673,14 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "\"<font color=\"\"green\"\"><b>Mary Awkard Fairfax</b></font>\"",
+        "value": "\"<font color=\"\"navy\"\"><b>Sonia Sanchez</b></font>\"",
         "format": "text/plain"
       },
       "target": {
         "source": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
-          "t": "1220.63,1222.01"
+          "t": "831.33,841.38"
         }
       }
     },
@@ -1694,14 +1694,14 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "\"<font color=\"\"red\"\"><b>Cheryl M.</b></font>\"",
+        "value": "\"<font color=\"\"navy\"\"><b>Sonia Sanchez</b></font>\"",
         "format": "text/plain"
       },
       "target": {
         "source": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
-          "t": "1222.19,1223.39"
+          "t": "841.38,849.63"
         }
       }
     },
@@ -1715,14 +1715,14 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "\"<font color=\"\"green\"\"><b>Mary Awkard Fairfax</b></font>\"",
+        "value": "\"<font color=\"\"navy\"\"><b>Sonia Sanchez</b></font>\"",
         "format": "text/plain"
       },
       "target": {
         "source": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
-          "t": "1223.57,1225.1"
+          "t": "849.63,861.51"
         }
       }
     },
@@ -1736,14 +1736,14 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "\"<font color=\"\"red\"\"><b>Cheryl M.</b></font>\"",
+        "value": "\"<font color=\"\"navy\"\"><b>Sonia Sanchez</b></font>\"",
         "format": "text/plain"
       },
       "target": {
         "source": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
-          "t": "1225.1,1225.76"
+          "t": "861.51,871.74"
         }
       }
     },
@@ -1757,14 +1757,14 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "\"<font color=\"\"green\"\"><b>Mary Awkard Fairfax</b></font>\"",
+        "value": "\"<font color=\"\"navy\"\"><b>Sonia Sanchez</b></font>\"",
         "format": "text/plain"
       },
       "target": {
         "source": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
-          "t": "1225.74,1245.18"
+          "t": "871.74,881.64"
         }
       }
     },
@@ -1778,14 +1778,14 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "\"<font color=\"\"red\"\"><b>Cheryl M.</b></font>\"",
+        "value": "\"<font color=\"\"navy\"\"><b>Sonia Sanchez</b></font>\"",
         "format": "text/plain"
       },
       "target": {
         "source": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
-          "t": "1245.19,1248.1"
+          "t": "881.64,892.53"
         }
       }
     },
@@ -1799,14 +1799,14 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "\"<font color=\"\"green\"\"><b>Mary Awkard Fairfax</b></font>\"",
+        "value": "\"<font color=\"\"navy\"\"><b>Sonia Sanchez</b></font>\"",
         "format": "text/plain"
       },
       "target": {
         "source": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
-          "t": "1248.7,1249.21"
+          "t": "892.53,900.9"
         }
       }
     },
@@ -1820,14 +1820,14 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "\"<font color=\"\"red\"\"><b>Cheryl M.</b></font>\"",
+        "value": "\"<font color=\"\"navy\"\"><b>Sonia Sanchez</b></font>\"",
         "format": "text/plain"
       },
       "target": {
         "source": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
-          "t": "1249.45,1250.02"
+          "t": "900.9,910.14"
         }
       }
     },
@@ -1841,14 +1841,14 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "\"<font color=\"\"green\"\"><b>Mary Awkard Fairfax</b></font>\"",
+        "value": "\"<font color=\"\"navy\"\"><b>Sonia Sanchez</b></font>\"",
         "format": "text/plain"
       },
       "target": {
         "source": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
-          "t": "1250.0,1285.22"
+          "t": "910.14,917.64"
         }
       }
     },
@@ -1862,14 +1862,14 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "\"<font color=\"\"green\"\"><b>Mary Awkard Fairfax</b></font>\"",
+        "value": "\"<font color=\"\"navy\"\"><b>Sonia Sanchez</b></font>\"",
         "format": "text/plain"
       },
       "target": {
         "source": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
-          "t": "1286.03,1288.4"
+          "t": "917.64,930.81"
         }
       }
     },
@@ -1883,14 +1883,14 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "\"<font color=\"\"green\"\"><b>Mary Awkard Fairfax</b></font>\"",
+        "value": "\"<font color=\"\"navy\"\"><b>Sonia Sanchez</b></font>\"",
         "format": "text/plain"
       },
       "target": {
         "source": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
-          "t": "1287.99,1290.09"
+          "t": "931.05,941.22"
         }
       }
     },
@@ -1904,14 +1904,14 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "\"<font color=\"\"green\"\"><b>Mary Awkard Fairfax</b></font>\"",
+        "value": "\"<font color=\"\"navy\"\"><b>Sonia Sanchez</b></font>\"",
         "format": "text/plain"
       },
       "target": {
         "source": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
-          "t": "1290.07,1291.45"
+          "t": "941.22,951.3"
         }
       }
     },
@@ -1925,14 +1925,14 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "\"<font color=\"\"green\"\"><b>Mary Awkard Fairfax</b></font>\"",
+        "value": "\"<font color=\"\"navy\"\"><b>Sonia Sanchez</b></font>\"",
         "format": "text/plain"
       },
       "target": {
         "source": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
-          "t": "1292.38,1314.16"
+          "t": "951.3,963.0"
         }
       }
     },
@@ -1946,14 +1946,14 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "\"<font color=\"\"red\"\"><b>Cheryl M.</b></font>\"",
+        "value": "\"<font color=\"\"navy\"\"><b>Sonia Sanchez</b></font>\"",
         "format": "text/plain"
       },
       "target": {
         "source": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
-          "t": "1314.28,1319.05"
+          "t": "963.0,972.51"
         }
       }
     },
@@ -1967,14 +1967,14 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "\"<font color=\"\"green\"\"><b>Mary Awkard Fairfax</b></font>\"",
+        "value": "\"<font color=\"\"navy\"\"><b>Sonia Sanchez</b></font>\"",
         "format": "text/plain"
       },
       "target": {
         "source": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
-          "t": "1319.69,1509.62"
+          "t": "972.54,981.45"
         }
       }
     },
@@ -1988,14 +1988,14 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "\"<font color=\"\"red\"\"><b>Cheryl M.</b></font>\"",
+        "value": "\"<font color=\"\"navy\"\"><b>Sonia Sanchez</b></font>\"",
         "format": "text/plain"
       },
       "target": {
         "source": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
-          "t": "1509.71,1513.25"
+          "t": "981.45,992.85"
         }
       }
     },
@@ -2009,14 +2009,14 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "\"<font color=\"\"green\"\"><b>Mary Awkard Fairfax</b></font>\"",
+        "value": "\"<font color=\"\"navy\"\"><b>Sonia Sanchez</b></font>\"",
         "format": "text/plain"
       },
       "target": {
         "source": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
-          "t": "1513.28,1521.38"
+          "t": "992.85,1004.4"
         }
       }
     },
@@ -2030,14 +2030,14 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "\"<font color=\"\"red\"\"><b>Cheryl M.</b></font>\"",
+        "value": "\"<font color=\"\"navy\"\"><b>Sonia Sanchez</b></font>\"",
         "format": "text/plain"
       },
       "target": {
         "source": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
-          "t": "1521.86,1524.8"
+          "t": "1004.43,1014.0"
         }
       }
     },
@@ -2051,14 +2051,14 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "\"<font color=\"\"green\"\"><b>Mary Awkard Fairfax</b></font>\"",
+        "value": "\"<font color=\"\"navy\"\"><b>Sonia Sanchez</b></font>\"",
         "format": "text/plain"
       },
       "target": {
         "source": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
-          "t": "1524.0,1607.67"
+          "t": "1014.0,1024.35"
         }
       }
     },
@@ -2072,14 +2072,14 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "\"<font color=\"\"green\"\"><b>Mary Awkard Fairfax</b></font>\"",
+        "value": "\"<font color=\"\"navy\"\"><b>Sonia Sanchez</b></font>\"",
         "format": "text/plain"
       },
       "target": {
         "source": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
-          "t": "1608.98,1933.82"
+          "t": "1024.35,1034.43"
         }
       }
     },
@@ -2093,14 +2093,14 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "\"<font color=\"\"red\"\"><b>Cheryl M.</b></font>\"",
+        "value": "\"<font color=\"\"navy\"\"><b>Sonia Sanchez</b></font>\"",
         "format": "text/plain"
       },
       "target": {
         "source": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
-          "t": "1933.85,1935.14"
+          "t": "1034.49,1043.43"
         }
       }
     },
@@ -2114,14 +2114,14 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "\"<font color=\"\"green\"\"><b>Mary Awkard Fairfax</b></font>\"",
+        "value": "\"<font color=\"\"navy\"\"><b>Sonia Sanchez</b></font>\"",
         "format": "text/plain"
       },
       "target": {
         "source": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
-          "t": "1935.0,1971.99"
+          "t": "1043.43,1055.46"
         }
       }
     },
@@ -2135,14 +2135,14 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "\"<font color=\"\"green\"\"><b>Mary Awkard Fairfax</b></font>\"",
+        "value": "\"<font color=\"\"navy\"\"><b>Sonia Sanchez</b></font>\"",
         "format": "text/plain"
       },
       "target": {
         "source": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
-          "t": "1974.0,2009.04"
+          "t": "1055.46,1062.84"
         }
       }
     },
@@ -2156,14 +2156,14 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "\"<font color=\"\"red\"\"><b>Cheryl M.</b></font>\"",
+        "value": "\"<font color=\"\"navy\"\"><b>Sonia Sanchez</b></font>\"",
         "format": "text/plain"
       },
       "target": {
         "source": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
-          "t": "1974.48,1974.84"
+          "t": "1063.98,1074.66"
         }
       }
     },
@@ -2177,14 +2177,14 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "\"<font color=\"\"red\"\"><b>Cheryl M.</b></font>\"",
+        "value": "\"<font color=\"\"navy\"\"><b>Sonia Sanchez</b></font>\"",
         "format": "text/plain"
       },
       "target": {
         "source": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
-          "t": "2010.11,2011.22"
+          "t": "1074.66,1083.06"
         }
       }
     },
@@ -2198,14 +2198,14 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "\"<font color=\"\"green\"\"><b>Mary Awkard Fairfax</b></font>\"",
+        "value": "\"<font color=\"\"navy\"\"><b>Sonia Sanchez</b></font>\"",
         "format": "text/plain"
       },
       "target": {
         "source": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
-          "t": "2011.49,2013.14"
+          "t": "1083.06,1093.98"
         }
       }
     },
@@ -2219,14 +2219,14 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "\"<font color=\"\"red\"\"><b>Cheryl M.</b></font>\"",
+        "value": "\"<font color=\"\"navy\"\"><b>Sonia Sanchez</b></font>\"",
         "format": "text/plain"
       },
       "target": {
         "source": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
-          "t": "2013.14,2020.43"
+          "t": "1093.98,1105.86"
         }
       }
     },
@@ -2240,14 +2240,14 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "\"<font color=\"\"green\"\"><b>Mary Awkard Fairfax</b></font>\"",
+        "value": "\"<font color=\"\"navy\"\"><b>Sonia Sanchez</b></font>\"",
         "format": "text/plain"
       },
       "target": {
         "source": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
-          "t": "2020.84,2033.02"
+          "t": "1105.98,1115.88"
         }
       }
     },
@@ -2261,14 +2261,14 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "\"<font color=\"\"red\"\"><b>Cheryl M.</b></font>\"",
+        "value": "\"<font color=\"\"navy\"\"><b>Sonia Sanchez</b></font>\"",
         "format": "text/plain"
       },
       "target": {
         "source": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
-          "t": "2033.72,2034.98"
+          "t": "1115.88,1126.86"
         }
       }
     },
@@ -2282,14 +2282,14 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "\"<font color=\"\"green\"\"><b>Mary Awkard Fairfax</b></font>\"",
+        "value": "\"<font color=\"\"navy\"\"><b>Sonia Sanchez</b></font>\"",
         "format": "text/plain"
       },
       "target": {
         "source": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
-          "t": "2034.98,2035.76"
+          "t": "1126.86,1135.77"
         }
       }
     },
@@ -2303,14 +2303,14 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "\"<font color=\"\"red\"\"><b>Cheryl M.</b></font>\"",
+        "value": "\"<font color=\"\"navy\"\"><b>Sonia Sanchez</b></font>\"",
         "format": "text/plain"
       },
       "target": {
         "source": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
-          "t": "2035.78,2036.47"
+          "t": "1135.92,1143.9"
         }
       }
     },
@@ -2324,14 +2324,14 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "\"<font color=\"\"green\"\"><b>Mary Awkard Fairfax</b></font>\"",
+        "value": "\"<font color=\"\"#008080\"\"><b>Joanne V. Gabbin</b></font>\"",
         "format": "text/plain"
       },
       "target": {
         "source": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
-          "t": "2038.97,2041.01"
+          "t": "1144.019,1157.369"
         }
       }
     },
@@ -2345,14 +2345,14 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "\"<font color=\"\"red\"\"><b>Cheryl M.</b></font>\"",
+        "value": "\"<font color=\"\"#008080\"\"><b>Joanne V. Gabbin</b></font>\"",
         "format": "text/plain"
       },
       "target": {
         "source": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
-          "t": "2041.84,2043.46"
+          "t": "1157.399,1172.909"
         }
       }
     },
@@ -2366,14 +2366,14 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "\"<font color=\"\"green\"\"><b>Mary Awkard Fairfax</b></font>\"",
+        "value": "\"<font color=\"\"#008080\"\"><b>Joanne V. Gabbin</b></font>\"",
         "format": "text/plain"
       },
       "target": {
         "source": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
-          "t": "2044.68,2051.22"
+          "t": "1173.149,1190.759"
         }
       }
     },
@@ -2387,14 +2387,14 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "\"<font color=\"\"red\"\"><b>Cheryl M.</b></font>\"",
+        "value": "\"<font color=\"\"#008080\"\"><b>Joanne V. Gabbin</b></font>\"",
         "format": "text/plain"
       },
       "target": {
         "source": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
-          "t": "2053.79,2056.31"
+          "t": "1190.759,1192.769"
         }
       }
     },
@@ -2408,14 +2408,14 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "\"<font color=\"\"green\"\"><b>Mary Awkard Fairfax</b></font>\"",
+        "value": "\"<font color=\"\"navy\"\"><b>Sonia Sanchez</b></font>\"",
         "format": "text/plain"
       },
       "target": {
         "source": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
-          "t": "2057.2,2059.96"
+          "t": "1193.609,1203.389"
         }
       }
     },
@@ -2429,14 +2429,14 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "\"<font color=\"\"red\"\"><b>Cheryl M.</b></font>\"",
+        "value": "\"<font color=\"\"navy\"\"><b>Sonia Sanchez</b></font>\"",
         "format": "text/plain"
       },
       "target": {
         "source": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
-          "t": "2060.05,2061.64"
+          "t": "1203.419,1214.519"
         }
       }
     },
@@ -2450,14 +2450,14 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "\"<font color=\"\"green\"\"><b>Mary Awkard Fairfax</b></font>\"",
+        "value": "\"<font color=\"\"navy\"\"><b>Sonia Sanchez</b></font>\"",
         "format": "text/plain"
       },
       "target": {
         "source": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
-          "t": "2061.0,2106.6"
+          "t": "1214.519,1223.219"
         }
       }
     },
@@ -2471,14 +2471,14 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "\"<font color=\"\"red\"\"><b>Cheryl M.</b></font>\"",
+        "value": "\"<font color=\"\"navy\"\"><b>Sonia Sanchez</b></font>\"",
         "format": "text/plain"
       },
       "target": {
         "source": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
-          "t": "2107.56,2109.93"
+          "t": "1223.219,1234.829"
         }
       }
     },
@@ -2492,14 +2492,14 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "\"<font color=\"\"green\"\"><b>Mary Awkard Fairfax</b></font>\"",
+        "value": "\"<font color=\"\"navy\"\"><b>Sonia Sanchez</b></font>\"",
         "format": "text/plain"
       },
       "target": {
         "source": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
-          "t": "2110.86,2119.8"
+          "t": "1234.829,1246.529"
         }
       }
     },
@@ -2513,14 +2513,14 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "\"<font color=\"\"red\"\"><b>Cheryl M.</b></font>\"",
+        "value": "\"<font color=\"\"navy\"\"><b>Sonia Sanchez</b></font>\"",
         "format": "text/plain"
       },
       "target": {
         "source": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
-          "t": "2119.8,2124.72"
+          "t": "1246.589,1255.499"
         }
       }
     },
@@ -2534,14 +2534,14 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "\"<font color=\"\"green\"\"><b>Mary Awkard Fairfax</b></font>\"",
+        "value": "\"<font color=\"\"navy\"\"><b>Sonia Sanchez</b></font>\"",
         "format": "text/plain"
       },
       "target": {
         "source": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
-          "t": "2125.02,2125.95"
+          "t": "1255.589,1264.829"
         }
       }
     },
@@ -2555,14 +2555,14 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "\"<font color=\"\"red\"\"><b>Cheryl M.</b></font>\"",
+        "value": "\"<font color=\"\"navy\"\"><b>Sonia Sanchez</b></font>\"",
         "format": "text/plain"
       },
       "target": {
         "source": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
-          "t": "2125.98,2126.49"
+          "t": "1264.829,1278.659"
         }
       }
     },
@@ -2576,14 +2576,14 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "\"<font color=\"\"green\"\"><b>Mary Awkard Fairfax</b></font>\"",
+        "value": "\"<font color=\"\"navy\"\"><b>Sonia Sanchez</b></font>\"",
         "format": "text/plain"
       },
       "target": {
         "source": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
-          "t": "2126.58,2129.13"
+          "t": "1278.779,1289.459"
         }
       }
     },
@@ -2597,14 +2597,14 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "\"<font color=\"\"red\"\"><b>Cheryl M.</b></font>\"",
+        "value": "\"<font color=\"\"navy\"\"><b>Sonia Sanchez</b></font>\"",
         "format": "text/plain"
       },
       "target": {
         "source": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
-          "t": "2129.63,2132.45"
+          "t": "1289.459,1297.379"
         }
       }
     },
@@ -2618,14 +2618,14 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "\"<font color=\"\"green\"\"><b>Mary Awkard Fairfax</b></font>\"",
+        "value": "\"<font color=\"\"navy\"\"><b>Sonia Sanchez</b></font>\"",
         "format": "text/plain"
       },
       "target": {
         "source": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
-          "t": "2132.0,2162.66"
+          "t": "1297.379,1305.959"
         }
       }
     },
@@ -2639,14 +2639,14 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "\"<font color=\"\"red\"\"><b>Cheryl M.</b></font>\"",
+        "value": "\"<font color=\"\"navy\"\"><b>Sonia Sanchez</b></font>\"",
         "format": "text/plain"
       },
       "target": {
         "source": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
-          "t": "2163.59,2164.13"
+          "t": "1305.959,1316.609"
         }
       }
     },
@@ -2660,14 +2660,14 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "\"<font color=\"\"green\"\"><b>Mary Awkard Fairfax</b></font>\"",
+        "value": "\"<font color=\"\"navy\"\"><b>Sonia Sanchez</b></font>\"",
         "format": "text/plain"
       },
       "target": {
         "source": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
-          "t": "2164.75,2183.71"
+          "t": "1316.609,1328.639"
         }
       }
     },
@@ -2681,14 +2681,14 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "\"<font color=\"\"green\"\"><b>Mary Awkard Fairfax</b></font>\"",
+        "value": "\"<font color=\"\"navy\"\"><b>Sonia Sanchez</b></font>\"",
         "format": "text/plain"
       },
       "target": {
         "source": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
-          "t": "2183.0,2199.65"
+          "t": "1328.639,1337.699"
         }
       }
     },
@@ -2702,14 +2702,14 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "\"<font color=\"\"red\"\"><b>Cheryl M.</b></font>\"",
+        "value": "\"<font color=\"\"navy\"\"><b>Sonia Sanchez</b></font>\"",
         "format": "text/plain"
       },
       "target": {
         "source": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
-          "t": "2199.65,2199.68"
+          "t": "1337.699,1347.749"
         }
       }
     },
@@ -2723,14 +2723,14 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "\"<font color=\"\"green\"\"><b>Mary Awkard Fairfax</b></font>\"",
+        "value": "\"<font color=\"\"navy\"\"><b>Sonia Sanchez</b></font>\"",
         "format": "text/plain"
       },
       "target": {
         "source": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
-          "t": "2202.06,2291.97"
+          "t": "1347.749,1357.109"
         }
       }
     },
@@ -2744,14 +2744,14 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "\"<font color=\"\"red\"\"><b>Cheryl M.</b></font>\"",
+        "value": "\"<font color=\"\"navy\"\"><b>Sonia Sanchez</b></font>\"",
         "format": "text/plain"
       },
       "target": {
         "source": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
-          "t": "2292.09,2293.83"
+          "t": "1357.109,1366.109"
         }
       }
     },
@@ -2765,14 +2765,14 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "\"<font color=\"\"green\"\"><b>Mary Awkard Fairfax</b></font>\"",
+        "value": "\"<font color=\"\"navy\"\"><b>Sonia Sanchez</b></font>\"",
         "format": "text/plain"
       },
       "target": {
         "source": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
-          "t": "2293.03,2317.12"
+          "t": "1366.109,1375.139"
         }
       }
     },
@@ -2786,14 +2786,14 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "\"<font color=\"\"red\"\"><b>Cheryl M.</b></font>\"",
+        "value": "\"<font color=\"\"navy\"\"><b>Sonia Sanchez</b></font>\"",
         "format": "text/plain"
       },
       "target": {
         "source": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
-          "t": "2318.23,2319.88"
+          "t": "1375.139,1384.649"
         }
       }
     },
@@ -2807,14 +2807,14 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "\"<font color=\"\"green\"\"><b>Mary Awkard Fairfax</b></font>\"",
+        "value": "\"<font color=\"\"navy\"\"><b>Sonia Sanchez</b></font>\"",
         "format": "text/plain"
       },
       "target": {
         "source": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
-          "t": "2320.72,2327.32"
+          "t": "1384.649,1395.359"
         }
       }
     },
@@ -2828,14 +2828,14 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "\"<font color=\"\"red\"\"><b>Cheryl M.</b></font>\"",
+        "value": "\"<font color=\"\"navy\"\"><b>Sonia Sanchez</b></font>\"",
         "format": "text/plain"
       },
       "target": {
         "source": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
-          "t": "2327.83,2328.85"
+          "t": "1395.359,1404.509"
         }
       }
     },
@@ -2849,14 +2849,14 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "\"<font color=\"\"green\"\"><b>Mary Awkard Fairfax</b></font>\"",
+        "value": "\"<font color=\"\"navy\"\"><b>Sonia Sanchez</b></font>\"",
         "format": "text/plain"
       },
       "target": {
         "source": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
-          "t": "2328.03,2342.97"
+          "t": "1404.509,1414.139"
         }
       }
     },
@@ -2870,14 +2870,14 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "\"<font color=\"\"red\"\"><b>Cheryl M.</b></font>\"",
+        "value": "\"<font color=\"\"navy\"\"><b>Sonia Sanchez</b></font>\"",
         "format": "text/plain"
       },
       "target": {
         "source": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
-          "t": "2344.05,2344.92"
+          "t": "1414.139,1422.059"
         }
       }
     },
@@ -2891,14 +2891,14 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "\"<font color=\"\"green\"\"><b>Mary Awkard Fairfax</b></font>\"",
+        "value": "\"<font color=\"\"navy\"\"><b>Sonia Sanchez</b></font>\"",
         "format": "text/plain"
       },
       "target": {
         "source": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
-          "t": "2345.56,2352.43"
+          "t": "1422.059,1432.499"
         }
       }
     },
@@ -2912,14 +2912,14 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "\"<font color=\"\"red\"\"><b>Cheryl M.</b></font>\"",
+        "value": "\"<font color=\"\"navy\"\"><b>Sonia Sanchez</b></font>\"",
         "format": "text/plain"
       },
       "target": {
         "source": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
-          "t": "2352.97,2356.39"
+          "t": "1432.499,1442.969"
         }
       }
     },
@@ -2933,14 +2933,14 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "\"<font color=\"\"green\"\"><b>Mary Awkard Fairfax</b></font>\"",
+        "value": "\"<font color=\"\"navy\"\"><b>Sonia Sanchez</b></font>\"",
         "format": "text/plain"
       },
       "target": {
         "source": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
-          "t": "2357.71,2371.48"
+          "t": "1442.969,1450.949"
         }
       }
     },
@@ -2954,14 +2954,14 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "\"<font color=\"\"red\"\"><b>Cheryl M.</b></font>\"",
+        "value": "\"<font color=\"\"navy\"\"><b>Sonia Sanchez</b></font>\"",
         "format": "text/plain"
       },
       "target": {
         "source": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
-          "t": "2371.51,2374.57"
+          "t": "1450.949,1459.199"
         }
       }
     },
@@ -2975,14 +2975,14 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "\"<font color=\"\"green\"\"><b>Mary Awkard Fairfax</b></font>\"",
+        "value": "\"<font color=\"\"navy\"\"><b>Sonia Sanchez</b></font>\"",
         "format": "text/plain"
       },
       "target": {
         "source": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
-          "t": "2373.37,2417.65"
+          "t": "1459.199,1469.669"
         }
       }
     },
@@ -2996,14 +2996,14 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "\"<font color=\"\"green\"\"><b>Mary Awkard Fairfax</b></font>\"",
+        "value": "\"<font color=\"\"navy\"\"><b>Sonia Sanchez</b></font>\"",
         "format": "text/plain"
       },
       "target": {
         "source": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
-          "t": "2376.85,2425.03"
+          "t": "1469.669,1479.299"
         }
       }
     },
@@ -3017,14 +3017,14 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "\"<font color=\"\"red\"\"><b>Cheryl M.</b></font>\"",
+        "value": "\"<font color=\"\"navy\"\"><b>Sonia Sanchez</b></font>\"",
         "format": "text/plain"
       },
       "target": {
         "source": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
-          "t": "2418.95,2429.03"
+          "t": "1479.389,1488.719"
         }
       }
     },
@@ -3038,14 +3038,14 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "\"<font color=\"\"red\"\"><b>Cheryl M.</b></font>\"",
+        "value": "\"<font color=\"\"navy\"\"><b>Sonia Sanchez</b></font>\"",
         "format": "text/plain"
       },
       "target": {
         "source": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
-          "t": "2429.09,2432.24"
+          "t": "1489.44,1500.27"
         }
       }
     },
@@ -3059,14 +3059,14 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "\"<font color=\"\"green\"\"><b>Mary Awkard Fairfax</b></font>\"",
+        "value": "\"<font color=\"\"navy\"\"><b>Sonia Sanchez</b></font>\"",
         "format": "text/plain"
       },
       "target": {
         "source": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
-          "t": "2432.24,2436.23"
+          "t": "1500.27,1509.42"
         }
       }
     },
@@ -3080,14 +3080,14 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "\"<font color=\"\"red\"\"><b>Cheryl M.</b></font>\"",
+        "value": "\"<font color=\"\"navy\"\"><b>Sonia Sanchez</b></font>\"",
         "format": "text/plain"
       },
       "target": {
         "source": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
-          "t": "2436.719,2439.69"
+          "t": "1509.42,1517.88"
         }
       }
     },
@@ -3101,14 +3101,14 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "\"<font color=\"\"green\"\"><b>Mary Awkard Fairfax</b></font>\"",
+        "value": "\"<font color=\"\"navy\"\"><b>Sonia Sanchez</b></font>\"",
         "format": "text/plain"
       },
       "target": {
         "source": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
-          "t": "2441.61,2487.57"
+          "t": "1517.88,1529.61"
         }
       }
     },
@@ -3122,14 +3122,14 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "\"<font color=\"\"red\"\"><b>Cheryl M.</b></font>\"",
+        "value": "\"<font color=\"\"navy\"\"><b>Sonia Sanchez</b></font>\"",
         "format": "text/plain"
       },
       "target": {
         "source": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
-          "t": "2487.99,2488.65"
+          "t": "1529.61,1541.7"
         }
       }
     },
@@ -3143,14 +3143,14 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "\"<font color=\"\"green\"\"><b>Mary Awkard Fairfax</b></font>\"",
+        "value": "\"<font color=\"\"navy\"\"><b>Sonia Sanchez</b></font>\"",
         "format": "text/plain"
       },
       "target": {
         "source": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
-          "t": "2488.0,2562.43"
+          "t": "1541.7,1551.21"
         }
       }
     },
@@ -3164,14 +3164,14 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "\"<font color=\"\"red\"\"><b>Cheryl M.</b></font>\"",
+        "value": "\"<font color=\"\"navy\"\"><b>Sonia Sanchez</b></font>\"",
         "format": "text/plain"
       },
       "target": {
         "source": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
-          "t": "2562.99,2566.83"
+          "t": "1551.21,1559.34"
         }
       }
     },
@@ -3185,14 +3185,14 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "\"<font color=\"\"green\"\"><b>Mary Awkard Fairfax</b></font>\"",
+        "value": "\"<font color=\"\"navy\"\"><b>Sonia Sanchez</b></font>\"",
         "format": "text/plain"
       },
       "target": {
         "source": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
-          "t": "2567.53,2605.99"
+          "t": "1559.49,1568.97"
         }
       }
     },
@@ -3206,14 +3206,14 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "\"<font color=\"\"red\"\"><b>Cheryl M.</b></font>\"",
+        "value": "\"<font color=\"\"navy\"\"><b>Sonia Sanchez</b></font>\"",
         "format": "text/plain"
       },
       "target": {
         "source": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
-          "t": "2607.7,2611.78"
+          "t": "1568.97,1583.19"
         }
       }
     },
@@ -3227,14 +3227,1421 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "\"<font color=\"\"green\"\"><b>Mary Awkard Fairfax</b></font>\"",
+        "value": "\"<font color=\"\"navy\"\"><b>Sonia Sanchez</b></font>\"",
         "format": "text/plain"
       },
       "target": {
         "source": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
-          "t": "2611.0,2789.38"
+          "t": "1583.19,1593.18"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas/speaker-annotation-155.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "\"<font color=\"\"navy\"\"><b>Sonia Sanchez</b></font>\"",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1593.54,1603.98"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas/speaker-annotation-156.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "\"<font color=\"\"navy\"\"><b>Sonia Sanchez</b></font>\"",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1603.98,1614.93"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas/speaker-annotation-157.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "\"<font color=\"\"navy\"\"><b>Sonia Sanchez</b></font>\"",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1614.93,1623.81"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas/speaker-annotation-158.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "\"<font color=\"\"navy\"\"><b>Sonia Sanchez</b></font>\"",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1623.81,1637.13"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas/speaker-annotation-159.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "\"<font color=\"\"navy\"\"><b>Sonia Sanchez</b></font>\"",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1637.13,1646.97"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas/speaker-annotation-160.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "\"<font color=\"\"navy\"\"><b>Sonia Sanchez</b></font>\"",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1649.73,1650.27"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas/speaker-annotation-161.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "\"<font color=\"\"navy\"\"><b>Sonia Sanchez</b></font>\"",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1652.069,1652.939"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas/speaker-annotation-162.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "\"<font color=\"\"navy\"\"><b>Sonia Sanchez</b></font>\"",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1654.53,1669.98"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas/speaker-annotation-163.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "\"<font color=\"\"navy\"\"><b>Sonia Sanchez</b></font>\"",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1669.98,1678.59"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas/speaker-annotation-164.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "\"<font color=\"\"navy\"\"><b>Sonia Sanchez</b></font>\"",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1679.25,1689.72"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas/speaker-annotation-165.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "\"<font color=\"\"navy\"\"><b>Sonia Sanchez</b></font>\"",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1689.72,1699.68"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas/speaker-annotation-166.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "\"<font color=\"\"navy\"\"><b>Sonia Sanchez</b></font>\"",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1699.83,1709.94"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas/speaker-annotation-167.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "\"<font color=\"\"navy\"\"><b>Sonia Sanchez</b></font>\"",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1709.94,1719.51"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas/speaker-annotation-168.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "\"<font color=\"\"navy\"\"><b>Sonia Sanchez</b></font>\"",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1719.51,1734.45"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas/speaker-annotation-169.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "\"<font color=\"\"navy\"\"><b>Sonia Sanchez</b></font>\"",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1734.45,1744.35"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas/speaker-annotation-170.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "\"<font color=\"\"navy\"\"><b>Sonia Sanchez</b></font>\"",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1744.35,1756.02"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas/speaker-annotation-171.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "\"<font color=\"\"navy\"\"><b>Sonia Sanchez</b></font>\"",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1756.17,1766.58"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas/speaker-annotation-172.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "\"<font color=\"\"navy\"\"><b>Sonia Sanchez</b></font>\"",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1766.58,1779.48"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas/speaker-annotation-173.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "\"<font color=\"\"navy\"\"><b>Sonia Sanchez</b></font>\"",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1779.84,1789.44"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas/speaker-annotation-174.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "\"<font color=\"\"navy\"\"><b>Sonia Sanchez</b></font>\"",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1789.44,1798.86"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas/speaker-annotation-175.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "\"<font color=\"\"navy\"\"><b>Sonia Sanchez</b></font>\"",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1798.86,1807.92"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas/speaker-annotation-176.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "\"<font color=\"\"navy\"\"><b>Sonia Sanchez</b></font>\"",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1807.92,1808.34"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas/speaker-annotation-177.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "\"<font color=\"\"navy\"\"><b>Sonia Sanchez</b></font>\"",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1824.53,1836.95"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas/speaker-annotation-178.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "\"<font color=\"\"navy\"\"><b>Sonia Sanchez</b></font>\"",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1836.95,1848.41"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas/speaker-annotation-179.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "\"<font color=\"\"navy\"\"><b>Sonia Sanchez</b></font>\"",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1848.41,1858.58"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas/speaker-annotation-180.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "\"<font color=\"\"navy\"\"><b>Sonia Sanchez</b></font>\"",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1858.88,1868.96"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas/speaker-annotation-181.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "\"<font color=\"\"navy\"\"><b>Sonia Sanchez</b></font>\"",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1868.96,1881.29"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas/speaker-annotation-182.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "\"<font color=\"\"navy\"\"><b>Sonia Sanchez</b></font>\"",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1881.29,1894.16"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas/speaker-annotation-183.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "\"<font color=\"\"navy\"\"><b>Sonia Sanchez</b></font>\"",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1894.16,1903.73"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas/speaker-annotation-184.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "\"<font color=\"\"navy\"\"><b>Sonia Sanchez</b></font>\"",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1903.73,1913.3"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas/speaker-annotation-185.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "\"<font color=\"\"navy\"\"><b>Sonia Sanchez</b></font>\"",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1913.3,1924.52"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas/speaker-annotation-186.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "\"<font color=\"\"navy\"\"><b>Sonia Sanchez</b></font>\"",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1924.52,1943.18"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas/speaker-annotation-187.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "\"<font color=\"\"navy\"\"><b>Sonia Sanchez</b></font>\"",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1943.18,1955.18"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas/speaker-annotation-188.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "\"<font color=\"\"navy\"\"><b>Sonia Sanchez</b></font>\"",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1955.18,1966.7"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas/speaker-annotation-189.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "\"<font color=\"\"navy\"\"><b>Sonia Sanchez</b></font>\"",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1966.7,1975.31"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas/speaker-annotation-190.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "\"<font color=\"\"navy\"\"><b>Sonia Sanchez</b></font>\"",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1975.64,1984.67"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas/speaker-annotation-191.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "\"<font color=\"\"navy\"\"><b>Sonia Sanchez</b></font>\"",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1984.67,1993.4"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas/speaker-annotation-192.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "\"<font color=\"\"navy\"\"><b>Sonia Sanchez</b></font>\"",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1993.4,2004.47"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas/speaker-annotation-193.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "\"<font color=\"\"navy\"\"><b>Sonia Sanchez</b></font>\"",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "2004.47,2012.12"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas/speaker-annotation-194.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "\"<font color=\"\"#008080\"\"><b>Joanne V. Gabbin</b></font>\"",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "2013.63,2028.3"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas/speaker-annotation-195.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "\"<font color=\"\"#008080\"\"><b>Joanne V. Gabbin</b></font>\"",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "2028.3,2044.53"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas/speaker-annotation-196.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "\"<font color=\"\"#008080\"\"><b>Joanne V. Gabbin</b></font>\"",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "2044.56,2056.77"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas/speaker-annotation-197.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "\"<font color=\"\"#008080\"\"><b>Joanne V. Gabbin</b></font>\"",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "2056.77,2073.63"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas/speaker-annotation-198.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "\"<font color=\"\"#008080\"\"><b>Joanne V. Gabbin</b></font>\"",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "2073.78,2084.37"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas/speaker-annotation-199.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "\"<font color=\"\"#008080\"\"><b>Joanne V. Gabbin</b></font>\"",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "2085.33,2098.41"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas/speaker-annotation-200.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "\"<font color=\"\"#008080\"\"><b>Joanne V. Gabbin</b></font>\"",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "2098.41,2112.93"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas/speaker-annotation-201.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "\"<font color=\"\"#008080\"\"><b>Joanne V. Gabbin</b></font>\"",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "2112.93,2132.76"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas/speaker-annotation-202.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "\"<font color=\"\"#008080\"\"><b>Joanne V. Gabbin</b></font>\"",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "2132.76,2146.56"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas/speaker-annotation-203.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "\"<font color=\"\"#008080\"\"><b>Joanne V. Gabbin</b></font>\"",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "2146.56,2160.99"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas/speaker-annotation-204.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "\"<font color=\"\"#008080\"\"><b>Joanne V. Gabbin</b></font>\"",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "2160.99,2173.5"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas/speaker-annotation-205.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "\"<font color=\"\"#008080\"\"><b>Joanne V. Gabbin</b></font>\"",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "2173.56,2188.95"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas/speaker-annotation-206.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "\"<font color=\"\"#008080\"\"><b>Joanne V. Gabbin</b></font>\"",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "2188.95,2202.18"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas/speaker-annotation-207.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "\"<font color=\"\"#008080\"\"><b>Joanne V. Gabbin</b></font>\"",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "2202.18,2214.66"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas/speaker-annotation-208.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "\"<font color=\"\"#008080\"\"><b>Joanne V. Gabbin</b></font>\"",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "2214.78,2222.34"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas/speaker-annotation-209.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "\"<font color=\"\"navy\"\"><b>Sonia Sanchez</b></font>\"",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "2222.64,2232.84"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas/speaker-annotation-210.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "\"<font color=\"\"navy\"\"><b>Sonia Sanchez</b></font>\"",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "2232.84,2246.61"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas/speaker-annotation-211.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "\"<font color=\"\"navy\"\"><b>Sonia Sanchez</b></font>\"",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "2246.64,2257.23"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas/speaker-annotation-212.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "\"<font color=\"\"navy\"\"><b>Sonia Sanchez</b></font>\"",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "2257.23,2266.53"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas/speaker-annotation-213.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "\"<font color=\"\"navy\"\"><b>Sonia Sanchez</b></font>\"",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "2266.53,2278.2"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas/speaker-annotation-214.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "\"<font color=\"\"navy\"\"><b>Sonia Sanchez</b></font>\"",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "2278.2,2288.7"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas/speaker-annotation-215.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "\"<font color=\"\"navy\"\"><b>Sonia Sanchez</b></font>\"",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "2288.7,2301.66"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas/speaker-annotation-216.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "\"<font color=\"\"navy\"\"><b>Sonia Sanchez</b></font>\"",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "2301.66,2307.12"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas/speaker-annotation-217.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "\"<font color=\"\"#008080\"\"><b>Joanne V. Gabbin</b></font>\"",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "2307.27,2316.87"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas/speaker-annotation-218.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "\"<font color=\"\"#008080\"\"><b>Joanne V. Gabbin</b></font>\"",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "2316.87,2320.47"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas/speaker-annotation-219.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "\"<font color=\"\"navy\"\"><b>Sonia Sanchez</b></font>\"",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "2320.529,2335.649"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas/speaker-annotation-220.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "\"<font color=\"\"navy\"\"><b>Sonia Sanchez</b></font>\"",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "2335.649,2344.949"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas/speaker-annotation-221.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "\"<font color=\"\"navy\"\"><b>Sonia Sanchez</b></font>\"",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "2345.039,2349.689"
         }
       }
     }

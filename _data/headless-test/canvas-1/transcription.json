@@ -14,14 +14,14 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "A native...?",
+        "value": "Sonia, Gwen said in one of her poems, this is the urgency and conduct, you're looming in the noise of the whirlwind. I know because of our long association, that",
         "format": "text/plain"
       },
       "target": {
         "source": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
-          "t": "36.06,36.75"
+          "t": "11.32,25.72"
         }
       }
     },
@@ -35,14 +35,14 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "of Harrisonburg?",
+        "value": "it has not always been easy to be a black poet in the second half of the 20th century, or the first decade of the 21st century. Could you talk about that a little bit? How have",
         "format": "text/plain"
       },
       "target": {
         "source": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
-          "t": "37.44,38.43"
+          "t": "25.78,41.32"
         }
       }
     },
@@ -56,14 +56,14 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "Yes I have",
+        "value": "there been those difficulties?",
         "format": "text/plain"
       },
       "target": {
         "source": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
-          "t": "38.46,39.57"
+          "t": "41.32,44.08"
         }
       }
     },
@@ -77,14 +77,14 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "You were born and raised here?",
+        "value": "Well, you know, I think that it's been difficult, you know, all the years that we've been here in this place called America being writers, or even poets,",
         "format": "text/plain"
       },
       "target": {
         "source": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
-          "t": "40.32,42.42"
+          "t": "44.72,52.37"
         }
       }
     },
@@ -98,14 +98,14 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "Yeah.",
+        "value": "because you do know that teaching an English department, they really didn't think that we belong there, because it is called English department. However, we did go there. And we",
         "format": "text/plain"
       },
       "target": {
         "source": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
-          "t": "42.45,42.87"
+          "t": "52.37,62.9"
         }
       }
     },
@@ -119,14 +119,14 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "Right here on Gay Street or?",
+        "value": "did make somewhat of a [inaudible] splash. But also what you know, reading early literature, you understood family, how difficult it was, for Du Bois, how difficult it was for",
         "format": "text/plain"
       },
       "target": {
         "source": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
-          "t": "43.83,45.54"
+          "t": "62.9,74.15"
         }
       }
     },
@@ -140,14 +140,14 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "No, I was born on Effinger Street. As I became nine years old, my daddy, moved us down to the corner of Broad & Gay, in one of the houses that he'd built for the family. It's a big white house, that is facing Broad, but the side is on Gay Street on the corner of those two streets.",
+        "value": "Phillis Wheatley, how difficult it was for Delany and all those people, Zora to write and to be accepted as writers have, in this whole interesting thing called writing in",
         "format": "text/plain"
       },
       "target": {
         "source": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
-          "t": "45.72,74.52"
+          "t": "74.15,86.81"
         }
       }
     },
@@ -161,14 +161,14 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "What was it like growing up in Harrisonburg? What was Harrisonburg like while you were growing up?",
+        "value": "America, of what they call the canon, the literary canon. And quite often we, ourselves are not even accepted into that canon, at this stage of the game, after all of these",
         "format": "text/plain"
       },
       "target": {
         "source": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
-          "t": "74.97,81.09"
+          "t": "86.81,97.46"
         }
       }
     },
@@ -182,14 +182,14 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "Oh a very pleasant place to live. [Clears throat] We enjoyed it very much. We grew up... I had one sister, and two brothers. And I was oldest of all of the four. And my sister's next to me, her name was Viola and next is my brother Joseph, the picture so a while ago, and the baby was Fred. Fred Awkward. His picture's over somewhere around here.",
+        "value": "years, of really what I call invigorating this thing called American writing. That's what we've done, we have invigorated and stretched it, when you began to include",
         "format": "text/plain"
       },
       "target": {
         "source": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
-          "t": "81.87,117.66"
+          "t": "97.46,107.72"
         }
       }
     },
@@ -203,14 +203,14 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "Where did you go to school at?",
+        "value": "black writing, in, in this writing, then it opened up to Native American writers, it opened up to Jewish writers, I mean, in within the genre, it opened up to Asian writing,",
         "format": "text/plain"
       },
       "target": {
         "source": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
-          "t": "118.74,120.3"
+          "t": "108.29,122.45"
         }
       }
     },
@@ -224,14 +224,14 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "Oh, at first, I went after finishing Effinger(?) high school. I didn't go to Simms. Because Effinger was the first school. And I went to [unintelligible/unintelligible ends] I graduated with my high school graduation diploma from Effinger Street school. And from there...",
+        "value": "women's writing, you know, lesbian studies, or gay studies. And what it did is it is spread all out and says, simply, you know, here we is, you know, it is not all about European",
         "format": "text/plain"
       },
       "target": {
         "source": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
-          "t": "121.14,147.51"
+          "t": "122.81,133.88"
         }
       }
     },
@@ -245,14 +245,14 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "Now that school is not here anymore, is it?",
+        "value": "writing. And that made for such an interesting way of looking at the world and looking at literature. I mean, you had, we have this very wonderful literature that goes on and",
         "format": "text/plain"
       },
       "target": {
         "source": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
-          "t": "147.87,149.85"
+          "t": "133.88,146.51"
         }
       }
     },
@@ -266,14 +266,14 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "No, that's where you see Roses. [unintelligible] Dad is there is where it was in through there. [unintelligible ends]",
+        "value": "says, You got to look at something called westward expansion with a different eye, you know, than saying, by golly, by gee, we were just going out west to expand, no, you also",
         "format": "text/plain"
       },
       "target": {
         "source": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
-          "t": "149.85,156.0"
+          "t": "146.51,156.77"
         }
       }
     },
@@ -287,14 +287,14 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "Now what about elementary school? Where was that?",
+        "value": "kill a whole lot of people, you know, doing that also, too. So all that was necessary. So that meant that you had to look at the words of the Native Americans, you know, you had",
         "format": "text/plain"
       },
       "target": {
         "source": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
-          "t": "156.21,158.58"
+          "t": "156.77,166.04"
         }
       }
     },
@@ -308,14 +308,14 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "That was the same place. The elementary school was in the lower floor and upper floor was the high school. So I was there a long time [laughs] everything in one place? (Cheryl)",
+        "value": "to understand that this was not just them, chanting going Ooga booga booga, like the African writing, you know, ay, ya-ya, woo-woo, but listen, and we did that we brought that",
         "format": "text/plain"
       },
       "target": {
         "source": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
-          "t": "159.0,172.02"
+          "t": "166.04,176.78"
         }
       }
     },
@@ -329,14 +329,14 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "How many students were there in the school?",
+        "value": "within that arena. And I remember once reading in the Midwest, and the Native American person came up to me and said, our sister Sanchez, when you chanted, I heard my",
         "format": "text/plain"
       },
       "target": {
         "source": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
-          "t": "172.45,175.42"
+          "t": "176.78,188.12"
         }
       }
     },
@@ -350,14 +350,14 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "There weren't too many at that time though [unintelligible] they will need to [unintelligible ends] because by having an elementary school in the bottom of the high school that made quite a few, but they only had [unintelligible] Harrisonburg here they [unintelligible ends] only Harrisonburg students when I was in school. And...",
+        "value": "people. And I remember leaning back, I leaned back on my own breath, and felt his breath and knew the connection, which was so important to us. Because at first, she was so",
         "format": "text/plain"
       },
       "target": {
         "source": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
-          "t": "175.93,199.51"
+          "t": "188.12,199.1"
         }
       }
     },
@@ -371,14 +371,14 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "\"What was your favorite subject? [Mary says \"\"huh?] What was your favorite subject?\"",
+        "value": "interested in bringing just the word of the African American writing, that you didn't always hear other people breathing around you. But once you were able to firm yourself and look",
         "format": "text/plain"
       },
       "target": {
         "source": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
-          "t": "201.76,206.17"
+          "t": "199.13,208.73"
         }
       }
     },
@@ -392,14 +392,14 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "Well, I liked history and especially English; I liked English grammar and English literature, both and I liked the simple science. I didn't like chemistry too well. I wasn't too much in love with algebra. But I liked other math and not the higher though you know and Latin the professors taught Latin, I have three years of Latin. (Cheryl)",
+        "value": "out at the world at the diaspora, you heard other breasts, you smell other breasts, you heard other chat, you say, this is the same chat. These are the same words. And these are",
         "format": "text/plain"
       },
       "target": {
         "source": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
-          "t": "207.34,245.26"
+          "t": "208.76,218.72"
         }
       }
     },
@@ -413,14 +413,14 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "That's great. (Mary)",
+        "value": "the same kind of things that are are happening. When I went to China in 73. We were in Hong Kong waiting for a train. And this Chinese man came Darden across the we were the",
         "format": "text/plain"
       },
       "target": {
         "source": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
-          "t": "245.26,245.98"
+          "t": "218.72,229.58"
         }
       }
     },
@@ -434,14 +434,14 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "You ever have Latin? (Cheryl)",
+        "value": "first group, after Nixon had climbed the Great Wall of China. And so we had people like Candice Bergen and Alice Childress, and, you know, all kinds of people go in there,",
         "format": "text/plain"
       },
       "target": {
         "source": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
-          "t": "246.07,247.33"
+          "t": "229.58,238.64"
         }
       }
     },
@@ -455,14 +455,14 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "\"Yes ma'am. [Overlapping dialogue from the two before Cheryl resumes] Yes ma'am [laughs] And people said \"\"Well you should've had something else.\"\" But I'd say to them that a lot of our English words came from Latin language (Cheryl)\"",
+        "value": "the San Francisco mime troupe, the the people have been quite listed, you know, in America at McCarthy. Those riders were on that trip. And this Chinese man came running across",
         "format": "text/plain"
       },
       "target": {
         "source": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
-          "t": "247.23,263.4"
+          "t": "238.64,251.39"
         }
       }
     },
@@ -476,14 +476,14 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "Exactly. (Mary)",
+        "value": "those rapes the train station, crazy in ragged clothes, Everybody jump and ask students, Hey, how you doing brother? Because they I've seen you in Harlem, you know, I've seen",
         "format": "text/plain"
       },
       "target": {
         "source": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
-          "t": "263.32,264.19"
+          "t": "251.39,261.47"
         }
       }
     },
@@ -497,14 +497,14 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "And you can speak it and you can give, for an example&#58; water was aqua and we have aquamarine...",
+        "value": "you in Chicago. I've seen you in Alabama. Hello, how you doing? You know. So it's the same, you begin to understand that then you understand your literature more and you",
         "format": "text/plain"
       },
       "target": {
         "source": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
-          "t": "264.0,273.24"
+          "t": "261.47,271.85"
         }
       }
     },
@@ -518,14 +518,14 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "Aquatic...",
+        "value": "understand the world's literature more also to writing",
         "format": "text/plain"
       },
       "target": {
         "source": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
-          "t": "273.31,274.18"
+          "t": "271.85,274.91"
         }
       }
     },
@@ -539,14 +539,14 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "We have aqueducts and all the things mean water [unintelligible] that may lead nowhere after that [unintelligible ends].",
+        "value": "frenetic chaos that we are so used to. A young woman stood up by yesterday in the conference and talked about being from Pakistan and how we have to make a",
         "format": "text/plain"
       },
       "target": {
         "source": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
-          "t": "274.21,284.44"
+          "t": "276.09,287.31"
         }
       }
     },
@@ -560,14 +560,14 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "[laughs] So how was being a teenager here in Harrisonburg? What did you do for fun?",
+        "value": "connection with women in Pakistan because our experiences of women in this country are similar to those that she experienced growing up there. And I thought about the theme",
         "format": "text/plain"
       },
       "target": {
         "source": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
-          "t": "284.44,293.71"
+          "t": "287.31,299.97"
         }
       }
     },
@@ -581,14 +581,14 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "Oh, [unintelligible] precious it was [unintelligible ends] it wasn't too much fun you did You came to school [unintelligible] job for pain free to do what you got oh [unintelligible ends] my mother had something for your arm [unintelligible] is one of those veterans if you knew or a friend or is [unintelligible ends] male",
+        "value": "The conference at least a sub being cross pollination in the diaspora, because we have to understand that our poetry has stretched far beyond our boundaries, and has impacted many,",
         "format": "text/plain"
       },
       "target": {
         "source": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
-          "t": "294.76,312.34"
+          "t": "300.48,314.19"
         }
       }
     },
@@ -602,14 +602,14 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "Yes ma'am I know, the cast iron ones that you heated up he",
+        "value": "many people. And I know that your poetry has done that, because you are affectionately called the poet of the universe. And what are you calling people calling you?",
         "format": "text/plain"
       },
       "target": {
         "source": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
-          "t": "312.0,315.3"
+          "t": "314.19,323.49"
         }
       }
     },
@@ -623,14 +623,14 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "Heat on the stove, and then take a pie roller and by the time you got to where you were earning you had to go back and get another iron [unintelligible] division [unintelligible ends] pants. I had to press and do my sisters and brothers things and my Daddy's shirt or whatever or if the steps need dusting, something was always home to do.",
+        "value": "I don't know. But the point is that I think we have learned, you know, that we all have the same voice. As I said before, when I was in China in 73, and I was",
         "format": "text/plain"
       },
       "target": {
         "source": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
-          "t": "315.0,338.31"
+          "t": "324.21,334.5"
         }
       }
     },
@@ -644,14 +644,14 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "Now living here in Harrisonburg you had running water and...",
+        "value": "reading my poetry at University of Beijing, when the process of our professor Sanchez, and we understand this really well, they said, what you said, we've been in Shanghai, and",
         "format": "text/plain"
       },
       "target": {
         "source": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
-          "t": "338.49,341.94"
+          "t": "334.5,347.4"
         }
       }
     },
@@ -665,14 +665,14 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "Well now on every street we have stickers(?) out in the yard and I would do a toilet to dead tired Harrisonburg doesn't allow toilets right there now but even when we came to Broad Street to live they still had outdoor toilets and then [unintelligible] below King I guess I don't know with [unintelligible ends] my father built one of those averaging coins on our back porch with a door and they have a good tool you just pushed on it and everything went down [unintelligible] is that my door this day is a new dog it was straight out we have a name for what I can't think of the name right now.",
+        "value": "he said, you know, and you're talking about your black experience, he said, but you know, here in China, they had signs in Shanghai to said, No, Chinese are dogs allowed. So",
         "format": "text/plain"
       },
       "target": {
         "source": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
-          "t": "342.03,389.88"
+          "t": "347.4,358.65"
         }
       }
     },
@@ -686,14 +686,14 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "Hmm. Well what year was that? Do you remember?",
+        "value": "what you do is that you understood, it was, indeed, that oppression, against people of color was a real oppression all over the world. And so we began to write what we wrote,",
         "format": "text/plain"
       },
       "target": {
         "source": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
-          "t": "390.63,394.05"
+          "t": "358.65,368.61"
         }
       }
     },
@@ -707,14 +707,14 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "[lengthy pause as she considers the question] Oh, let me see it must have been somewhere in the 20's",
+        "value": "at some point, initially, we thought, this is just this experience, this is just my pain. And I had to tell people, by golly, by GE, this is all our pain, you know, here, and",
         "format": "text/plain"
       },
       "target": {
         "source": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
-          "t": "398.91,402.3"
+          "t": "368.76,378.24"
         }
       }
     },
@@ -728,14 +728,14 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "In the 20's? And that was when the town did (the two start speaking simultaneously, difficult to discern what each is saying) that then was",
+        "value": "you know, all of it. So therefore, the greatest thing I think that happened to me, and probably to you, and a lot of us, you know, in this field, is that we taught, you know,",
         "format": "text/plain"
       },
       "target": {
         "source": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
-          "t": "402.87,409.44"
+          "t": "378.24,389.01"
         }
       }
     },
@@ -749,14 +749,14 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "(Mary resumes talking on her own) a spigot out in the yard.",
+        "value": "and then teaching, I always say to people, teaching makes you writing and teach, you will keep you human, you know, because you will be in a classroom, I remember teaching at",
         "format": "text/plain"
       },
       "target": {
         "source": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
-          "t": "409.44,412.74"
+          "t": "389.01,398.82"
         }
       }
     },
@@ -770,14 +770,14 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "When did you get running water?",
+        "value": "Temple University up at them, of the art campus, and this young white man walked in with his hair or died, and he's very obviously was gay. And I was in my classes, you know,",
         "format": "text/plain"
       },
       "target": {
         "source": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
-          "t": "413.7,415.41"
+          "t": "398.82,409.92"
         }
       }
     },
@@ -791,14 +791,14 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "We got running water [unintelligible] we so [unintelligible ends] running water? It might be getting close to the 30's maybe.",
+        "value": "in a circle, and nobody wanted to grab his hand. So I grabbed his hand and told this young woman, you grab his hand, you know, and I held on very tightly. And I said,",
         "format": "text/plain"
       },
       "target": {
         "source": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
-          "t": "416.22,426.78"
+          "t": "409.92,419.01"
         }
       }
     },
@@ -812,14 +812,14 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "30's?",
+        "value": "you're in this circle, you know, everyone's in this circle. And he was such a great rider, that by the third week, everybody wants to hold his hand. So it is important for us",
         "format": "text/plain"
       },
       "target": {
         "source": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
-          "t": "426.9,427.41"
+          "t": "419.04,429.09"
         }
       }
     },
@@ -833,14 +833,14 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "Because we had water in the kitchen then, with Mom & Dad(?) you know.",
+        "value": "as writers, you see, I did a long essay, the poet is the creator of social values, we who create these things, we who say and set the tone for history, we're not 11 happened,",
         "format": "text/plain"
       },
       "target": {
         "source": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
-          "t": "427.47,432.51"
+          "t": "429.12,440.22"
         }
       }
     },
@@ -854,14 +854,14 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "And what about electricity?",
+        "value": "where did they go, they didn't go to the diplomats, they went to the poets, they help us understand this tragedy, help us to understand what has happened, help us to breathe,",
         "format": "text/plain"
       },
       "target": {
         "source": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
-          "t": "433.38,434.88"
+          "t": "440.28,451.38"
         }
       }
     },
@@ -875,14 +875,14 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "Well let's see when did we get that? Because I know we use it lanterned chimneys(?) to see because I know my little sister was sitting [unintelligible][unintelligible ends] next to the old [unintelligible][unintelligible ends] park [unintelligible]that going in[unintelligible ends] and one chimney broke a piece of glass onto her face [unintelligible]my hair she worked out attractively you know a good [unintelligible ends] place or and that must have been [unintelligible] I see me all [unintelligible ends] must have been around the 1990s something like that maybe it must've been around that time.",
+        "value": "because we're not breathing. Now. It's predictable, help us to live. And writers and poets have always helped people to live. And the question that must be answered here in the",
         "format": "text/plain"
       },
       "target": {
         "source": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
-          "t": "435.84,489.36"
+          "t": "451.53,460.95"
         }
       }
     },
@@ -896,14 +896,14 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "Were there a lot of cars here in Harrisonburg?",
+        "value": "21st century, is that, what does it mean to be human? If? If we don't answer that question, We're all doomed. You know, this is like, this is not like, what does it mean to be",
         "format": "text/plain"
       },
       "target": {
         "source": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
-          "t": "489.72,492.18"
+          "t": "460.95,469.32"
         }
       }
     },
@@ -917,14 +917,14 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "\"Oh no, not a whole lot. A few people had some of those, what you call reels(?) now I think and they will just [unintelligible] eat and you know, and it's amazing.[unintelligible ends] I will be having members open cars or lay-back lid you know, and there were spor-sport cars that the young people had, you know, a few of the younger people [unintelligible]with ties to the street then [unintelligible ends] you didn't get to go out with boys like they do now, 'cause my daddy would greet him at the door [unintelligible] inviting him talking [unintelligible ends] and ask him, he said \"\"What is your\"\" umm... what was his, his main words? Umm... let's see here, let's get it straight.\"",
+        "value": "human? If you're black? Or if you're Puerto Rican? Or if you're Asian? Or if you're gay? Or if you're Jewish? Or if you're Muslim of whatever? No, what does it mean to be human",
         "format": "text/plain"
       },
       "target": {
         "source": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
-          "t": "492.3,542.52"
+          "t": "469.32,477.99"
         }
       }
     },
@@ -938,14 +938,14 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "[laughs]",
+        "value": "on this earth? Because if you don't ask, this earth is gonna swell as whole as our beings, the years for some more of you to come out of the sea. I mean, this is serious business",
         "format": "text/plain"
       },
       "target": {
         "source": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
-          "t": "546.39,546.42"
+          "t": "478.35,486.72"
         }
       }
     },
@@ -959,14 +959,14 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "\"[laughs] \"\"First, what you wanna see my daughter for?\"\"\"",
+        "value": "going on right now at this particular time. So I say to my students all over, we've got to begin to answer this question in a very real concerted effort, you know, no, half",
         "format": "text/plain"
       },
       "target": {
         "source": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
-          "t": "546.42,548.52"
+          "t": "486.72,498.15"
         }
       }
     },
@@ -980,14 +980,14 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "[laughs]",
+        "value": "slotting, he had no half step in here at all, these are serious times period, you have to",
         "format": "text/plain"
       },
       "target": {
         "source": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
-          "t": "548.52,548.55"
+          "t": "498.15,504.0"
         }
       }
     },
@@ -1001,14 +1001,14 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "Yeah he was real strict(?) about his girls, he didn't want anybody to mess his girls up.",
+        "value": "remember that, when you talk that year at Lincoln University, it must have been 1975",
         "format": "text/plain"
       },
       "target": {
         "source": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
-          "t": "551.25,556.89"
+          "t": "504.24,512.91"
         }
       }
     },
@@ -1022,14 +1022,14 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "Now how did you get around to places? Did everybody just walk or did you have horses?",
+        "value": "sure was, oh, that was too late. No, maybe it was later, that was about 77 or 78.",
         "format": "text/plain"
       },
       "target": {
         "source": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
-          "t": "557.4,562.44"
+          "t": "512.94,520.23"
         }
       }
     },
@@ -1043,14 +1043,14 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "Most of the time you walked.",
+        "value": "I remember coming to your class, and you did the ritual of holding hands, at the end of the class, making the circle making the circle. Students say something",
         "format": "text/plain"
       },
       "target": {
         "source": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
-          "t": "562.44,563.58"
+          "t": "522.48,535.68"
         }
       }
     },
@@ -1064,14 +1064,14 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "You walked? So you walked to school?",
+        "value": "supportive, something positive about someone in the class, and I picked up ritual. I don't do it at the end of every class. But I certainly do it at the end of every semester.",
         "format": "text/plain"
       },
       "target": {
         "source": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
-          "t": "563.58,565.92"
+          "t": "536.07,550.77"
         }
       }
     },
@@ -1085,14 +1085,14 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "Yeah I walked to school, even after I started teaching at Simms I walked to school. We haven't always had buses, no we haven't, not in the city we didn't have buses. Because then they started coming from other places like some came from Grottoes and some came from the [unintelligible] NGO(?) Andrew tampers children's deal [unintelligible ends],",
+        "value": "But the whole idea is to how whole idea is to really come up with a way of making the students feel connected. And when you do that, in the classroom model, what can be done in the",
         "format": "text/plain"
       },
       "target": {
         "source": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
-          "t": "565.99,771.73"
+          "t": "551.61,565.89"
         }
       }
     },
@@ -1106,14 +1106,14 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "And that's because the schools were segregated back then right?",
+        "value": "community, outside the classroom in the you model, what can be done in the world? And it seems to be your perspective, has always been the extended community.",
         "format": "text/plain"
       },
       "target": {
         "source": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
-          "t": "596.35,599.44"
+          "t": "565.89,578.61"
         }
       }
     },
@@ -1127,14 +1127,14 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "[unintelligible/unintelligible ends] segregated schools oh they were segregated up until  I left Simms as a teacher up till 1966 that's when I went to [unintelligible]work(?) to save even though we have to deal [unintelligible ends] Simms, and Bridgewater too in Staunton [unintelligible] and all the sudden when you[unintelligible ends] I finished school- uh, high school in 1930 and my grades were high you know and I loved school just loved it. And I tell you who was the teacher who told us to sing. Robert-Roberta Webb(?) [unintelligible] to the nurse in most places [unintelligible] named after. But she- her name at that time was Morgan and she married a man named Revan Webb(?), that's where the Webb came from, but she was a Hampton graduate. Miss Lucy Sims was a Hampton graduate. And those women were very knowledgeable. And this(?) came from... I think he went to... it seemed like he went to Harvard, but I want to make no mistake(?). He was very proper. He taught the- he taught the Latin, and the history, and civics. And you know he was still principal when I went to Sims but just for a short time because he was principal when I went to school as a little girl six years old. And when I came to teach at the end(?) he always called [unintelligible] him to reframe [unintelligible ends] he could never accept the fact that I was going to teach beside him(?)",
+        "value": "I mean, even when we first came on the scene, and you know, one of the things that you see is happening, when people really want to, in a sense, not open their eyes",
         "format": "text/plain"
       },
       "target": {
         "source": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
-          "t": "599.03,741.14"
+          "t": "580.29,588.45"
         }
       }
     },
@@ -1148,14 +1148,14 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "[laughs]",
+        "value": "and listen, I'm always so surprised that people who have formed an opinion of you in 1965, and they still have their opinion in 2004. It shows two things is shows that the",
         "format": "text/plain"
       },
       "target": {
         "source": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
-          "t": "612.08,613.79"
+          "t": "588.45,600.87"
         }
       }
     },
@@ -1169,14 +1169,14 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "And so one day he brought me a civics paper that he kept through the years - it had my grade, an A.",
+        "value": "person has not grown and the person thinks to have now grown. It's like the great. Breck, you know, did did used to do dude like this little small pieces similar to what Baraka",
         "format": "text/plain"
       },
       "target": {
         "source": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
-          "t": "679.46,750.41"
+          "t": "600.87,612.6"
         }
       }
     },
@@ -1190,14 +1190,14 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "[laughs]",
+        "value": "does, you know? And he says in it a friend came up and said, How are you doing? How are you doing? How are you feeling? You know? And he says, I'm doing fine, I'm doing fine. He",
         "format": "text/plain"
       },
       "target": {
         "source": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
-          "t": "752.69,752.72"
+          "t": "612.6,626.04"
         }
       }
     },
@@ -1211,14 +1211,14 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "I like civics ,but they don't teach civics anymore.",
+        "value": "says that you haven't changed a bit. And, and he and he looked at him in a very strange way. And so there's something wrong with that, but because if you haven't seen",
         "format": "text/plain"
       },
       "target": {
         "source": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
-          "t": "752.72,757.52"
+          "t": "626.04,635.16"
         }
       }
     },
@@ -1232,14 +1232,14 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "They do they just teach-",
+        "value": "him in 20 years, Moses, you better believe that change. The wrinkle here is for a reason, you know, you know, the creases for a reason, you know, the gray hairs for a reason,",
         "format": "text/plain"
       },
       "target": {
         "source": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
-          "t": "757.58,758.81"
+          "t": "635.16,643.38"
         }
       }
     },
@@ -1253,14 +1253,14 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "Do they?",
+        "value": "you know, I don't I make someone say, Well, why don't you just dye that hair so new, so then I don't tell your age, because then people won't know, I want people to know that I",
         "format": "text/plain"
       },
       "target": {
         "source": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
-          "t": "758.81,759.53"
+          "t": "643.38,651.93"
         }
       }
     },
@@ -1274,14 +1274,14 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "Eighth grade I think, instead of in high school now they teach in eighth grade.",
+        "value": "have lived these years, I want people to know that this is what this is about. And this right here came from a demonstration, you know, when I turn and I was knocked down,",
         "format": "text/plain"
       },
       "target": {
         "source": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
-          "t": "759.71,763.67"
+          "t": "651.93,660.93"
         }
       }
     },
@@ -1295,14 +1295,14 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "Oh they do? I thought they'd stopped teaching it I hadn't heard anybody say-  [coughs] oh I'm sorry, I can't talk good today.",
+        "value": "you know, and I got up, couldn't get to ice, because I wasn't in my house, putting ice on it. So therefore, every time initially, when someone looked as Oh, God, Sonia,",
         "format": "text/plain"
       },
       "target": {
         "source": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
-          "t": "763.67,771.74"
+          "t": "660.93,669.36"
         }
       }
     },
@@ -1316,14 +1316,14 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "My son had civics when he was in the eighth grade.",
+        "value": "that's terrible there. And I looked at and I said, you know, uh huh. It could be terrible, but it could be for a reason, too. And I think everything is for a reason you see at some",
         "format": "text/plain"
       },
       "target": {
         "source": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
-          "t": "772.28,775.37"
+          "t": "669.36,678.63"
         }
       }
     },
@@ -1337,14 +1337,14 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "Can you understand?",
+        "value": "particular point. And I think that is what is important. I was just in Rome, for this great interdependence day. And you have prime ministers and, and diplomats from all over",
         "format": "text/plain"
       },
       "target": {
         "source": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
-          "t": "777.06,778.41"
+          "t": "678.63,689.16"
         }
       }
     },
@@ -1358,14 +1358,14 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "Oh yes ma'am. So when you graduated from high school in 1930 and you wanted to go to college...",
+        "value": "the world. And I opened the conference, but upon that I did about interdependence day, because the theme is that we're all interdependent, as, as, as people, you know, in our own",
         "format": "text/plain"
       },
       "target": {
         "source": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
-          "t": "778.5,786.66"
+          "t": "689.16,699.66"
         }
       }
     },
@@ -1379,14 +1379,14 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "[unintelligible] women rejoice [unintelligible ends] went to college. Down in New Market, near Mount Jackson, there was no school for black children and people in Mount Jackson places began [unintelligible] reasonable Okay, you [unintelligible ends] 'cause there was high school[unintelligible/unintelligible ends]. And they had an old school building there that they used some years way back. And then of course need from the house [unintelligible] daddy's house. May [unintelligible ends] school rooms I've ever it had a downstairs to it. So, the superintendent, down in Woodstock became worried because the people were so upset. So he called Mr. Keister Are you from here(?)?",
+        "value": "countries, and our separate countries, and then in the world, countries are interdependent. And when we truly understand that, then we move on a different level with each",
         "format": "text/plain"
       },
       "target": {
         "source": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
-          "t": "786.03,841.35"
+          "t": "699.66,707.7"
         }
       }
     },
@@ -1400,14 +1400,14 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "Keister Elementary? The one that...",
+        "value": "other. Because then you don't say to a person on when a bomb you bomb me, then I bomb you Next, when you're interdependent. You go to people then who can say how do we",
         "format": "text/plain"
       },
       "target": {
         "source": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
-          "t": "841.53,843.18"
+          "t": "707.7,716.64"
         }
       }
     },
@@ -1421,14 +1421,14 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "\"[unintelligible]why [unintelligible ends] He said \"\"Mr. Keister, do you have anybody that'll come down here and teach these people's children?\"\" Well, my daddy worked with schools and went down because carpenters didn't have much to do in the winter. Because houses like this were built the- they had plastered walls and those walls had to dry and they couldn't dry in cold weather, and they didn't have- [coughs] a couple of the apparatuses they have now. And then they come in on trucks that day they'd have to meet and they'd saw the old wood and measure it, and everything and he and his brother of course were carpenters in Harrisonburg boys. Well he says, Daddy, he said \"\"Joey said Mary would go down and work with those children she's such a stable girl and everything.\"\" [unintelligible] there's [unintelligible ends] no he said \"\"I'll talk to her mother about it.\"\" So they talked to go over it and they said if I wanted to try I could, they didn't want to tell him no or something. [unintelligible] So after I made that little Cabeus so it means that the doctors that [unintelligible ends] [coughs] See I would've been 18 years old. [unintelligible] We see a will he'll take Marian down my car [unintelligible ends] and take it down to Woodstock and see this main but first I went by to see the school. Well, windows all broken up, [unintelligible] foolish to have their [unintelligle ends], blackboard hanging off the wall all ragged. I said \"\"Hmm, I don't think I want to be down here coal(?) house all broken up [unintelligible] toy for down [unintelligible ends]. So [clears throat] so when I went to see him I told him I said \"\"I was told that you were the one to teach the black children.\"\" Well I said this place up here that you have I said \"\"There'll be no way I could go in there.\"\" I told what all was wrong with everything and then they had a great peek at it. [unintelligible] The things Yeah, boy when every roll there is a clean nap [unintelligible ends]. And I said the stove's no good for winter then he said \"\"Young lady,\"\" he said,  \"\"If you will come I'll get this thing fixed up for you, by November, and I'll write and tell you will Yeah, wait ram I would just do a little jobs here in there at station(?) high school. [clears throat] One day the letter came and said the school was ready. Well, then we went back down to see. New blackboard all the way across the room, new floors, new stove.\"",
+        "value": "reconnect, because we've gotten denote a disconnected at some point?",
         "format": "text/plain"
       },
       "target": {
         "source": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
-          "t": "843.03,1057.83"
+          "t": "716.64,720.21"
         }
       }
     },
@@ -1442,14 +1442,14 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "[laughs] Well that's wonderful.",
+        "value": "Because I was thinking that there must be some people in Iran today, who are so convinced that they are being under the under attack. I'm sure they have in",
         "format": "text/plain"
       },
       "target": {
         "source": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
-          "t": "1060.95,1062.12"
+          "t": "721.079,737.009"
         }
       }
     },
@@ -1463,14 +1463,14 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "New everything. New coal house(?). Stuffed with wooden coal, toys, new toys for boys and girls. And then I started. And I worked with him two years, but you had to go on a permit because I ain't ever done any work before. Well what I did, I drove from the first to the Simm's great mobility(?) to where it overtime was some of them were 1819 I had at that time longer hair and wore them all in the back. Show me how to fix it.",
+        "value": "their heads, this poem by county column, if we must let it not be like hawks hunted and pinned, and then something boys, but we have to really understand that. They are just",
         "format": "text/plain"
       },
       "target": {
         "source": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
-          "t": "1062.0,1102.47"
+          "t": "737.009,751.979"
         }
       }
     },
@@ -1484,14 +1484,14 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "[laughs]",
+        "value": "like us, they feel like us. Sometimes. We let the media convince us that what is going on over there has no connection with",
         "format": "text/plain"
       },
       "target": {
         "source": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
-          "t": "1103.19,1103.22"
+          "t": "751.979,761.039"
         }
       }
     },
@@ -1505,14 +1505,14 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "So I worked with her two years.",
+        "value": "that county. Yeah, yeah, I was just saying that. That's, that's that. That's that county? Oh,",
         "format": "text/plain"
       },
       "target": {
         "source": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
-          "t": "1106.55,1108.32"
+          "t": "761.97,767.49"
         }
       }
     },
@@ -1526,14 +1526,14 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "Where did you stay?",
+        "value": "I'm sorry.",
         "format": "text/plain"
       },
       "target": {
         "source": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
-          "t": "1108.38,1109.43"
+          "t": "767.55,768.09"
         }
       }
     },
@@ -1547,14 +1547,14 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "I stayed with a family in the community.",
+        "value": "Yeah, right. Yeah. Yeah. Yeah. Right. Yeah, that's all right. Yeah, well, correct. A B o'clock. Okay. Yeah, if you die.",
         "format": "text/plain"
       },
       "target": {
         "source": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
-          "t": "1110.51,1114.56"
+          "t": "768.24,776.04"
         }
       }
     },
@@ -1568,14 +1568,14 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "A black family or...",
+        "value": "My sister. What we truly understand at some point, is that we have all over the world, bunches of old men and women, you know, who had no one way to deal with the world. And",
         "format": "text/plain"
       },
       "target": {
         "source": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
-          "t": "1115.04,1116.12"
+          "t": "778.77,792.18"
         }
       }
     },
@@ -1589,14 +1589,14 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "Yes [unintelligible] legacy exam [unintelligible ends. Well they just had the one daughter, she was just a little bit, well, she might've been five years older than I was but I didn't teach her, cause they'd had- they'd had school once before but [unintelligible] just haven't really gotten one damn well then you want your team [unintelligible ends] to school and they may have brought them down in the car. First I was staying in New Market. I didn't like it there.",
+        "value": "that is through fire, through killing, to bombings, through, you know, oppression, whatever. What we're saying at some point, what I try to say to the young people yesterday, is",
         "format": "text/plain"
       },
       "target": {
         "source": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
-          "t": "1116.0,1144.59"
+          "t": "792.18,803.52"
         }
       }
     },
@@ -1610,14 +1610,14 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "How come?",
+        "value": "that there's a new way of looking at the world. And one of the ways that we have moved our poetry, you know, going from one point to another point, when I first came on the scene",
         "format": "text/plain"
       },
       "target": {
         "source": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
-          "t": "1145.28,1145.94"
+          "t": "803.52,811.74"
         }
       }
     },
@@ -1631,14 +1631,14 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "Well I just didn't like staying there for some reason. It was kind of like a void and I just, I didn't like it. And [coughs/clears throat] so [unintelligible] the rank is Sam's dad [unintelligible ends] is one daughter. She must've been about in her 20s and we all [unintelligible] Jeannine [unintelligible ends] Jolly good dad. And then there's other people in the community that [unintelligible] your habits down and we date to [unintelligible ends] the house and do things you know, for fun then I started playing for the churches and they had a Methodist church [unintelligible] out a window over down [unintelligible ends] through others, and a Baptist one on the other side, and they would have service one Sunday at the Methodist Church and then another Sunday at the Baptist [unintelligible] the community a beautiful beauty life [unintelligible ends]? Well, then, when my time was up they wanted me to stay you know [unintelligible] Brexit and then met [unintelligible ends] [clears throat]",
+        "value": "as other people came on the scene, we didn't know we had been enslaved. So we went into the libraries of wild God, we were enslaved, no one total for is a moment in time I was in",
         "format": "text/plain"
       },
       "target": {
         "source": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
-          "t": "1146.32,1217.3"
+          "t": "811.77,821.16"
         }
       }
     },
@@ -1652,14 +1652,14 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "How much were you paid for teaching there?",
+        "value": "slavery, we found that out, what do we do? We attacked everybody, then everybody didn't matter who you are, like, even our parents, so America said, How could you attack me?",
         "format": "text/plain"
       },
       "target": {
         "source": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
-          "t": "1217.33,1219.43"
+          "t": "821.16,831.18"
         }
       }
     },
@@ -1673,14 +1673,14 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "$50 a month.",
+        "value": "I've been good to you. Why are you calling me those names? Like why it whatever I know. Because I said to someone funny blog post folks have always called you names. Only because",
         "format": "text/plain"
       },
       "target": {
         "source": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
-          "t": "1220.63,1222.01"
+          "t": "831.33,841.38"
         }
       }
     },
@@ -1694,14 +1694,14 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "Well that's pretty good.",
+        "value": "we had no power. So the best thing to do was like and I said that, but that's a black thing. I mean, that's like when I grew up, you know, in Holland, you played the dozens, you",
         "format": "text/plain"
       },
       "target": {
         "source": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
-          "t": "1222.19,1223.39"
+          "t": "841.38,849.63"
         }
       }
     },
@@ -1715,14 +1715,14 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "Was a good amount in those days.",
+        "value": "know, your signified on people. So I said to an endless interview with someone that BJ never printed times I said, this is about signifying, you know, so you cannot review a",
         "format": "text/plain"
       },
       "target": {
         "source": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
-          "t": "1223.57,1225.1"
+          "t": "849.63,861.51"
         }
       }
     },
@@ -1736,14 +1736,14 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "Yeah!",
+        "value": "book of my poetry or anybody's poetry, unless you understand the culture of the people, you assume that you raised us all just like Topsy. We are saying you do not raise us like",
         "format": "text/plain"
       },
       "target": {
         "source": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
-          "t": "1225.1,1225.76"
+          "t": "861.51,871.74"
         }
       }
     },
@@ -1757,14 +1757,14 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "A whole lot of money yeah it got me some clothes and [unintelligible]gave [unintelligible] They had stores there and one dress shop. And I get me something and pay on  ityou know [unintelligible] directly [unintelligible ends] paid. So that's when I decided I wanted to be teacher.",
+        "value": "Topsy, you know, we come with new information. So when I write this particular poem, you've got to come in information, for instance, when I used to teach, and I came",
         "format": "text/plain"
       },
       "target": {
         "source": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
-          "t": "1225.74,1245.18"
+          "t": "871.74,881.64"
         }
       }
     },
@@ -1778,14 +1778,14 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "Did you get to come home at all during those two years?",
+        "value": "across a poem, and that's in that is he into mystical stuff here, you know, is he into whatever. So there was some authority on yated. I knocked on his door, a temple, and I",
         "format": "text/plain"
       },
       "target": {
         "source": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
-          "t": "1245.19,1248.1"
+          "t": "881.64,892.53"
         }
       }
     },
@@ -1799,14 +1799,14 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "Some.",
+        "value": "sat down, I sat down with him. He said, Sorry, you're right. Very few people pick that up. And I said, Oh, because I was another poet meeting him. So I said, What Talk to me about",
         "format": "text/plain"
       },
       "target": {
         "source": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
-          "t": "1248.7,1249.21"
+          "t": "892.53,900.9"
         }
       }
     },
@@ -1820,14 +1820,14 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "Some?",
+        "value": "it. He did, I took notes, you know, from then on that man spoke to me on that campus, but he hadn't done it before. So I say if you're going to teach me, you just walk in and",
         "format": "text/plain"
       },
       "target": {
         "source": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
-          "t": "1249.45,1250.02"
+          "t": "900.9,910.14"
         }
       }
     },
@@ -1841,14 +1841,14 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "Sometime the nurse would come and get me, 'cause I was playing the organ in my church and he wanted me to play you see, so I told him I'd(?) come home most of the weekend or sometimes I [unintelligible] might get to the load with them there. They wake me up his nap, woke up, woke up [unintelligible ends], turn the car around to come to Broad Street. I stayed out in Bridgewater those two years and then came back.",
+        "value": "teach me or some of these other people, but I understand that there's a culture, but if you understand it's a culture, then you assume then it's the assumption must be",
         "format": "text/plain"
       },
       "target": {
         "source": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
-          "t": "1250.0,1285.22"
+          "t": "910.14,917.64"
         }
       }
     },
@@ -1862,14 +1862,14 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "And [unintelligible] when it stopped [unintelligible ends] you mean",
+        "value": "you're human, you know, cultural moment for you, when you knew that you were going to be a writer? Oh, gosh, you know, I think I do think I might have known that at an early age.",
         "format": "text/plain"
       },
       "target": {
         "source": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
-          "t": "1286.03,1288.4"
+          "t": "917.64,930.81"
         }
       }
     },
@@ -1883,14 +1883,14 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "Yeah we [unintelligible] taught [unintelligible ends] at Mount Jackson",
+        "value": "But it was always No, no, when I teach a workshop, the people who really truly have talent, and are really born poets, right, and the ones who just learned it, and can",
         "format": "text/plain"
       },
       "target": {
         "source": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
-          "t": "1287.99,1290.09"
+          "t": "931.05,941.22"
         }
       }
     },
@@ -1904,14 +1904,14 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "Mount Jackson. Two years?",
+        "value": "write a poem through no craft, and that's about it. But I will, I began to write poetry after my grandmother died when I was six, you know, and but I didn't take it seriously was",
         "format": "text/plain"
       },
       "target": {
         "source": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
-          "t": "1290.07,1291.45"
+          "t": "941.22,951.3"
         }
       }
     },
@@ -1925,14 +1925,14 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "Now Woodstock had [unintelligible] to [unintelligible] school. [unintelligible] You're actually [unintelligible ends] that's the way to go. And the children in Strasburg had- had a school. But it's just the Mount Jackson children, and the New Market children, that didn't have any schools [unintelligible] created by Google. No, but [unintelligible ends]",
+        "value": "just something I did. But it saved my life, after my grandmother had died after mama had died. But I think in a very serious way, I odd would do in my university years, I",
         "format": "text/plain"
       },
       "target": {
         "source": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
-          "t": "1292.38,1314.16"
+          "t": "951.3,963.0"
         }
       }
     },
@@ -1946,14 +1946,14 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "So you taught them for two years and decided you wanted to go to college?",
+        "value": "would take these writing classes, and it was like, I was always like, ignored, whatever cetera. And so even when I got out of Hunter was going to NYU, I do these workshops,",
         "format": "text/plain"
       },
       "target": {
         "source": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
-          "t": "1314.28,1319.05"
+          "t": "963.0,972.51"
         }
       }
     },
@@ -1967,14 +1967,14 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "\"Well, I decided that I did... well being a poor family, you know, my people worked but you know, you didn't make much. Mama couldn't make but $7 a week if she [unintelligible] [unintelligible ends] wanted to work with somebody. And the only job that you would get would be a cook or something like that, or you would be a nursemaid or something. And we just didn't have very good jobs you have to do except to do how this work. We're [unintelligible] not under [unintelligible ends] for people. And my mother was a seamstress. So she did a lot of sewings for people. And then she did some laundry work. Doing men's/mends(?) shirts and things that rich people, you know? Well, she said \"\"I don't know how you're going to school, we don't have any money.\"\" I said \"\"I know, Mama,\"\" and I said \"\"I wanna go so I can be a teacher.\"\" And so, at that time my brothers and sisters they were coming along down [unintelligible] to lower grades of error [unintelligible]. We had only one brother that went to Simms, and he went only one year to Simms [unintelligible] [unintellligible ends] during high school. So I said my mind, said \"\"Miss Roy, you taught Leo and Joe,\"\" I said \"\"maybe she'd let me stay up there, on Petersburg.\"\" So I wrote to Mrs. Roy, and Mrs. Roy said \"\"Oh my mother, it'd be so great to have you Mary.\"\" Because she didn't teach me, she said \"\"I have sisters going over to Virginia State, and they walk over as day students,\"\" and she said \"\"you can stay here with us.\"\" Well I had a grandmother that was living with us, she used to, she and my grandfather lived in [unintelligible] Daddy, [unintelligible ends] you know where that is I assume, if you're from Harrisonburg; they had a farm, but when granddaddy passed away, Momma was the only child and Momma said \"\"I don't want my mother [unintelligible]. There. We are back with birth Do [unintelligible ends]\"\" and she brought her to Harrisonburg to live with our family. We went to stay with Mrs. Roy's family, oh I loved it there. My grandmother would send me the change(?) loose pens and change. Or she sent me a bunch of food like cookies and different things that I'd share with this lady's girls. And we walked to school it was two miles; we walked those two miles every morning going from up on where they lived to Virginia State.\"",
+        "value": "and they would talk about everybody's poem, that I'm not writing anything radical, I'm just writing. But the point is that, that I look back on it now writing my memoir, now, I",
         "format": "text/plain"
       },
       "target": {
         "source": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
-          "t": "1319.69,1509.62"
+          "t": "972.54,981.45"
         }
       }
     },
@@ -1988,14 +1988,14 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "Where was that at? You said Petersburg Virginia?",
+        "value": "was the only woman in there, and I was only black. So poetry was all for white males. You see, now even women, Adrienne Rich says in one of the anthologies, she says, I really got",
         "format": "text/plain"
       },
       "target": {
         "source": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
-          "t": "1509.71,1513.25"
+          "t": "981.45,992.85"
         }
       }
     },
@@ -2009,14 +2009,14 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "Petersburg Virginia. It's still there yet, it's expanded now but it wasn't as big then as it is now.",
+        "value": "up on stage one day and announced, I am a woman, poet, okay, after I read the black poet in America, who was saying, I am a black poet. And that's what I'm talking about the kind of",
         "format": "text/plain"
       },
       "target": {
         "source": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
-          "t": "1513.28,1521.38"
+          "t": "992.85,1004.4"
         }
       }
     },
@@ -2030,14 +2030,14 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "What's it called now is it still called Virginia State or...?",
+        "value": "influence that we had on people, because we identify ourselves, you know, from Jump Street, you see, I really discovered it. When I started with a woman by the name of",
         "format": "text/plain"
       },
       "target": {
         "source": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
-          "t": "1521.86,1524.8"
+          "t": "1004.43,1014.0"
         }
       }
     },
@@ -2051,14 +2051,14 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "\"They call it Virginia State University. Well I stayed [unintelligible] miserable [unintelligible] people until Christmas. Christmas [unintelligible] download [unintelligible] that first year went [unintelligible] to do the reverse on [unintelligible ends] me one day. She said, she said \"\"Your name is it Marie France Awkward? I said \"\"Yes ma'am.\"\" She said \"\"I see you girls coming and you not from here, and I thought maybe you'd like to come up on the campus.\"\" And I told her then I said \"\"Well,\"\" I said \"\"I can't go up on the campus because I don't have the money.\"\" She said \"\"You know how to work?\"\" I said \"\"Yes ma'am.\"\" She said \"\"[unintelligible]would activate you come to the work to do this and really up [unintelligible ends] on the campus.\"\" So I so I raised my mom. She said \"\"Well, I'd like to have you [unintelligible] it was the [unintelligible ends] have to keep your grades up there. [unintelligible] is zamri [unintelligible] have to keep your grades up.\"\" Well I said \"\"I can do that.\"\" And so I told Momma about it and my Momma said \"\"Well, whatever you want to do. We can see how it goes.\"\"\"",
+        "value": "Louise ball again, you go into American literature, and there she is, fine poet and editor for The New Yorker, you know, I mean, the poetry editor for The New Yorker, I walked",
         "format": "text/plain"
       },
       "target": {
         "source": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
-          "t": "1524.0,1607.67"
+          "t": "1014.0,1024.35"
         }
       }
     },
@@ -2072,14 +2072,14 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "\"And I went and I told Miss (?) of course the girls cried about it. You know [unintelligible] What do [unintelligible ends] you want me to leave. I told them the drive would be easier for me. So I went and the first year, most of the first year I mopped halls [unintelligible] was based on the [unintelligible ends], cleaned bathrooms and did things [clears throat] and you had to get up early in the morning cause you had to be on time for school. And so I worked hard kept my grades up. So then she said the [unintelligible] DA we haven't said [unintelligble ends] \"\"Well summertime's coming\"\" and said \"\"These lady schoolteachers come over here don't want to wash that floor [unintellgible] in a room [unintelligible ends] and do all the things they supposed to do and sometimes they give the girls a little money to clean for them. And I said to them [unintelligible] giving a watch or read do it in there gives them to be doing it [unintelligible ends] a quarter something like that. So I said \"\"Well I have to ask Momma if I can stay this summer.\"\" She said \"\"Well you write and ask your mother can you stay.\"\" and Momma said yes I can stay. And we had a bunch of girls, Lord it was a bunch of us. And said we have to clean beds [unintelligible] is going down Georgia dog joy dipping into the next session No. [unintelligible ends] next school day and they had a little room up on the third floor with a piano. And we girls would get to work and [unintelligible your brain [unintelligible ends] sing and dance. [unintelligible] Because we're in your brain that Emily's dog toys a wheel was [unintelligible] Well, I was still working, and that summer I worked in a- there's a group it was a organization from the government that paid for youth who- to work if they didn't have money and you put in the office in school if you want to draw some of it, okay. [unintelligible] We have slavery in there are many in there [unintelligible ends]. And the next thing Ms. White did - that was her name being a woman - she said \"\"You know, the men can't go to the village drunk(?) to bring them the clothes [unintelligible\\unintelligible ends] they like to have somebody to go around and collect up the clothes and, and bring them downstairs and give them to 'em.\"\" and I said [unintelligible] to you to get a look for me [unintelligible ends]. Said the theater gave you all those connected clothes. Sam gets on the girls do that. Would you like to do some of that? I said \"\"Yes ma'am Ms. White.\"\" I would go around knock on every door [unintelligible] a group day because it was amazed if they had given up [unintelligible ends] take them down and give them to the cleaners and they [unintelligible/unintelligible ends] take them back to their room. And they would always give me a little tip you know for doing it because that way they went on that first year and then the next year Miss white didn't have any kind of [unintelligible] a year ago [unintelligible ends] I know a professional two years teaching the next [unintelligible]joke in [unintelligible] my practice teacher. They came up and I was still having the job carrying letters to put [unintelligible] a note [unintelligible ends] on the door to his students. Wayne who office and she said \"\"Now Mary,\"\" she said, \"\"You don't have to clean this year, I want you to carry mail(?) for me and do errands for me.\"\" And then at the same time I made such a good grade in English over there that the English teacher had me to check her freshman papers, and she paid me something to get me my stockings and stuff that a girl needs you know. And then my mother made me some clothes. She made me skirts and things. And I was one of the honor students [unintelligible] was read [unintelligible] for honor students, I was allowed to be an usher. For our we have our devotion at certain days of the week. And I was one of the usher girls and Mama would have me being a blue Navy skirt and a white blouse to be like the other girls and [unintelligibleother strict [unintelligible ends] and so that when the end of the school term came before that [unintelligible] we do Lenovo xaviers though, [unintelligible ends] the teacher training in the class room.\"",
+        "value": "into a class of 45 people, NYU, my system, I sat by the door, because no one had ever want to even discuss, but I was writing. And the first night she says, Does anyone have",
         "format": "text/plain"
       },
       "target": {
         "source": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
-          "t": "1608.98,1933.82"
+          "t": "1024.35,1034.43"
         }
       }
     },
@@ -2093,14 +2093,14 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "Now where did you do that on campus?",
+        "value": "a poem? That's like asking a bunch of alcoholics, if they got a bottle someplace, we open in our pockets like this, you know, I went in my pocket, and I raised my hand to find",
         "format": "text/plain"
       },
       "target": {
         "source": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
-          "t": "1933.85,1935.14"
+          "t": "1034.49,1043.43"
         }
       }
     },
@@ -2114,14 +2114,14 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "\"On campus, it was a campus school there. And we had to do our practice they called it practice teaching, make these charts. for children to read you had to make up the stories yourself, have to have also have control of the classroom. So the girls, excuse me, the girls that were with me would say, \"\"Mary, how can you make your children behave and do and teach indoors?\"\" I said \"\"Mmm mmm, secret.\"\"\"",
+        "value": "out now, what I raised my hand. She said, Come up front, tell me your name. I did. I read the poem. And she the whole class with response to it. First time I heard response, you",
         "format": "text/plain"
       },
       "target": {
         "source": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
-          "t": "1935.0,1971.99"
+          "t": "1043.43,1055.46"
         }
       }
     },
@@ -2135,14 +2135,14 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "\"They said \"\"Something funny about this is that we don't ever get some of those grades. And the children don't listen to us. [unintelligible] You ready? Are you just like with Mr. Boom did we work on that? [unintelligible ends]\"\" And then I told them that I'd taught at one of those schools [Cheryl says something] when I was 18 years old, they couldn't believe it. And so that went on and I finished the two years and got my... what was I doing at the...?\"",
+        "value": "know, and she said, and if you had really read that poem out loud, Sonia, you would have probably,",
         "format": "text/plain"
       },
       "target": {
         "source": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
-          "t": "1974.0,2009.04"
+          "t": "1055.46,1062.84"
         }
       }
     },
@@ -2156,14 +2156,14 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "[laughs]",
+        "value": "and like, no, I stayed, I studied. And then I finally asked her one day in the office, I said, I want to know, do I have talent? She said, What do you want to know that for Sonia? I",
         "format": "text/plain"
       },
       "target": {
         "source": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
-          "t": "1974.48,1974.84"
+          "t": "1063.98,1074.66"
         }
       }
     },
@@ -2177,14 +2177,14 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "Teaching certificate?",
+        "value": "said, Well, I like to know. Because, you know, I've got enough I'm wasting. I didn't say that, because I really didn't think I was wasting my time, right? Because it was in",
         "format": "text/plain"
       },
       "target": {
         "source": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
-          "t": "2010.11,2011.22"
+          "t": "1074.66,1083.06"
         }
       }
     },
@@ -2198,14 +2198,14 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "Yeah, teaching certificate.",
+        "value": "that workshop that I published my first poem, at Volvo that class, and I bought him bottles of wine to NYU, you know, at night, you know, and pass it around with little cubs. And",
         "format": "text/plain"
       },
       "target": {
         "source": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
-          "t": "2011.49,2013.14"
+          "t": "1083.06,1093.98"
         }
       }
     },
@@ -2219,14 +2219,14 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "\"So was that four years total? Or [Mary starts to say \"\"no two\"\"] two years total? To get a [Mary says \"\"two years\"\"] teaching certificate.\"",
+        "value": "because she taught us from the Jump Street, the first day, she said, Get a notebook. Put down on once the Nation Address, they sent three poems, no more than three poems,",
         "format": "text/plain"
       },
       "target": {
         "source": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
-          "t": "2013.14,2020.43"
+          "t": "1093.98,1105.86"
         }
       }
     },
@@ -2240,14 +2240,14 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "And my gramps(?) and my mother came and we stayed overnight at the college. And she was so proud that I had gotten that. And the first job I got was Staunton Virginia.",
+        "value": "New Yorker, the mass review, new interview page page and start sending out I did it, you know, first time I send it, however, I took it to the mailbox across from where I lived,",
         "format": "text/plain"
       },
       "target": {
         "source": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
-          "t": "2020.84,2033.02"
+          "t": "1105.98,1115.88"
         }
       }
     },
@@ -2261,14 +2261,14 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "Was where?",
+        "value": "right? By the time I got back home, the reply was there. No, thank you. Right. But I did it. I make my students do it in workshop. Oh, yeah. When I'm editing software, or someone",
         "format": "text/plain"
       },
       "target": {
         "source": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
-          "t": "2033.72,2034.98"
+          "t": "1115.88,1126.86"
         }
       }
     },
@@ -2282,14 +2282,14 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "Staunton.",
+        "value": "else's editing stuff that's right on with this poem. It's good telling you in my workshop, and you know, you've seen my students get published, along with major poets, you see,",
         "format": "text/plain"
       },
       "target": {
         "source": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
-          "t": "2034.98,2035.76"
+          "t": "1126.86,1135.77"
         }
       }
     },
@@ -2303,14 +2303,14 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "Staunton?",
+        "value": "that is what you do. You push this thing called poetry, because poetry is one of the most important things that will keep us human on this earth. We did a",
         "format": "text/plain"
       },
       "target": {
         "source": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
-          "t": "2035.78,2036.47"
+          "t": "1135.92,1143.9"
         }
       }
     },
@@ -2324,14 +2324,14 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "The first job I got was [unintelligible]they [unintelligible ends].",
+        "value": "children's workshop yesterday. And poems that came out of that workshop. 12 to 14 year old Oh, no, not at all that young. Yeah. When I read last night, yes,",
         "format": "text/plain"
       },
       "target": {
         "source": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
-          "t": "2038.97,2041.01"
+          "t": "1144.019,1157.369"
         }
       }
     },
@@ -2345,14 +2345,14 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "Where was that at in Staunton?",
+        "value": "she wonderful, wonderful. She talked about all of the different positive aspects of being black and darkness. You know, I was thinking, you read a poem yesterday, and call it",
         "format": "text/plain"
       },
       "target": {
         "source": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
-          "t": "2041.84,2043.46"
+          "t": "1157.399,1172.909"
         }
       }
     },
@@ -2366,14 +2366,14 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "It was at the [unintelligible] time. This [unintelligible ends]",
+        "value": "a poem with some women. Yeah. And what was the impetus for that poem? It's a very painful poem. A colleague of mine told my husband, he just thought that was one of the most",
         "format": "text/plain"
       },
       "target": {
         "source": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
-          "t": "2044.68,2051.22"
+          "t": "1173.149,1190.759"
         }
       }
     },
@@ -2387,14 +2387,14 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "Did they- didn't have the Simms school then?",
+        "value": "powerful poems he ever heard.",
         "format": "text/plain"
       },
       "target": {
         "source": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
-          "t": "2053.79,2056.31"
+          "t": "1190.759,1192.769"
         }
       }
     },
@@ -2408,14 +2408,14 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "No that was over in- Simms was here in Harrisonburg.",
+        "value": "My sister I was watching television one night, you know, at the end of the day, I was getting my tea to go upstairs. to, you know, prop myself up a bit and write",
         "format": "text/plain"
       },
       "target": {
         "source": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
-          "t": "2057.2,2059.96"
+          "t": "1193.609,1203.389"
         }
       }
     },
@@ -2429,14 +2429,14 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "But it was here but then?",
+        "value": "or read before I went go to sleep. And the news cast came on this woman said today today today, it was reported that a woman in North Philadelphia which identify her as black, or",
         "format": "text/plain"
       },
       "target": {
         "source": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
-          "t": "2060.05,2061.64"
+          "t": "1203.419,1214.519"
         }
       }
     },
@@ -2450,14 +2450,14 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "No this was up there in Staunton. It was a Thomas C(?) umm... [stands up] walk over there to get that. Oh, TC Evans School. It was [unintelligible] the low [unintelligible ends] of the high school they had up there. It was a high school—was higher up on the hill—on Johnson Street. If you ever been to Staunton [Cheryl affirms verbally] you know about Johnson Street. It looks like you'd fall and break your neck coming down that street. But Mrs. Evans they lived right straight across the street because her husband, Mrs. Evan's husband, had been a principal for that school for a long time; and when he died, they names the school after her husband.",
+        "value": "Puerto Rican, right, a Latina, you know, took her child into the crack house and left. And then there was a silence, which meant like, Oh, those people do terrible things to",
         "format": "text/plain"
       },
       "target": {
         "source": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
-          "t": "2061.0,2106.6"
+          "t": "1214.519,1223.219"
         }
       }
     },
@@ -2471,14 +2471,14 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "Now this was in 1934?",
+        "value": "their children. And I went upstairs trying to forget it. And I even you know, read a bit, you know, brush my teeth, you know, wash my face, pull the covers up, and got up in the",
         "format": "text/plain"
       },
       "target": {
         "source": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
-          "t": "2107.56,2109.93"
+          "t": "1223.219,1234.829"
         }
       }
     },
@@ -2492,14 +2492,14 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "That was in 19... [pause] let me get that [unintelligible/unintelligible ends] Yeah, something like that.",
+        "value": "middle of the night, and started writing that poem. And that poem is for some women, not all women, that poem is about the question that I wrote in the margin, always, I always",
         "format": "text/plain"
       },
       "target": {
         "source": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
-          "t": "2110.86,2119.8"
+          "t": "1234.829,1246.529"
         }
       }
     },
@@ -2513,14 +2513,14 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "34. Now, had they already built Simms school in '34?",
+        "value": "asked my students for their writing, but it's the first question that comes to your head that motivates you to write this poem. The question was, how have we gone from women on",
         "format": "text/plain"
       },
       "target": {
         "source": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
-          "t": "2119.8,2124.72"
+          "t": "1246.589,1255.499"
         }
       }
     },
@@ -2534,14 +2534,14 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "No.",
+        "value": "the slave auction blogs, you know, say a Master Master, please don't take my child away from me. How are we going from there to take in a child in the crack house and leaving",
         "format": "text/plain"
       },
       "target": {
         "source": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
-          "t": "2125.02,2125.95"
+          "t": "1255.589,1264.829"
         }
       }
     },
@@ -2555,14 +2555,14 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "no?",
+        "value": "her for a week? You know, I was in that space lab again, to write that poem. You know, in that woman voice, you know, who is still human. You understand? When you just do the",
         "format": "text/plain"
       },
       "target": {
         "source": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
-          "t": "2125.98,2126.49"
+          "t": "1264.829,1278.659"
         }
       }
     },
@@ -2576,14 +2576,14 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "Simms school wasn't built 'til 1939.",
+        "value": "Colfax, she's not human, she has no breath. She has no blood. She has nothing as said, that's what she did. You see, but the woman is human, you know, I mean, this woman",
         "format": "text/plain"
       },
       "target": {
         "source": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
-          "t": "2126.58,2129.13"
+          "t": "1278.779,1289.459"
         }
       }
     },
@@ -2597,14 +2597,14 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "Oh, okay. So you got to teach in Staunton.",
+        "value": "who lives in her neighborhood, you know, I can get crack, you know, she can find the crack house, but the police can't find the crack house. But the children can tell you where",
         "format": "text/plain"
       },
       "target": {
         "source": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
-          "t": "2129.63,2132.45"
+          "t": "1289.459,1297.379"
         }
       }
     },
@@ -2618,14 +2618,14 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "Well I was in Staunton, after I was there two years [pause] or maybe when I was on my third(?) year there, I got married, to some [unintelligible/unintelligible ends] teacher in Harrisonburg, but he [unintelligible] included me to two goods and stuff. [unintelligible ends] So, at the time, then I got my divorce. But when a young teacher got married and Staunton, you had to quit anyway.",
+        "value": "the crack house is, you know, everybody on the block into the crack houses and never gets busted, you know what I'm saying? So here she is marching in, as she sees this man who",
         "format": "text/plain"
       },
       "target": {
         "source": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
-          "t": "2132.0,2162.66"
+          "t": "1297.379,1305.959"
         }
       }
     },
@@ -2639,14 +2639,14 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "No!",
+        "value": "says, I don't want to she said, I'm gonna give you my body. And he's, I don't want to, but I want a virgin. What kind of person? What kind of male, you know, looks at 11 a 10, a",
         "format": "text/plain"
       },
       "target": {
         "source": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
-          "t": "2163.59,2164.13"
+          "t": "1305.959,1316.609"
         }
       }
     },
@@ -2660,14 +2660,14 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "Because to the young mother, you'd be a young mother sometimes, and have to miss too much time from school. But an older woman could get a job there, as long as she wanted to; but see I wasn't but 26 years old, and so, that meant I had to stop when I got married.",
+        "value": "nine and eight, a 12 or 13 ago up to 16. Even you know, you Oh, and you see, you know, you don't see a human being you know, you don't see a little girl, right? You know, but you",
         "format": "text/plain"
       },
       "target": {
         "source": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
-          "t": "2164.75,2183.71"
+          "t": "1316.609,1328.639"
         }
       }
     },
@@ -2681,14 +2681,14 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "Well then after that marriage, I had to get another place to teach. And so Bridgewater(?) came up [overlapping dialogue from Cheryl and Mary] now that [overlap ends] down to a one room school to first through seventh grade again",
+        "value": "see a virgin, how can you call a 12 year old a virgin, that's a little girl, maybe one day removed from dolls. So I wanted to have all of that in that piece, you see. And this",
         "format": "text/plain"
       },
       "target": {
         "source": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
-          "t": "2183.0,2199.65"
+          "t": "1328.639,1337.699"
         }
       }
     },
@@ -2702,14 +2702,14 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "Ahhh.",
+        "value": "woman and she comes back singing Mama's little baby loves shortening, shortening. Mama says a baby loves shortening bread, put on the jacket, put on the jacket, because you're",
         "format": "text/plain"
       },
       "target": {
         "source": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
-          "t": "2199.65,2199.68"
+          "t": "1337.699,1347.749"
         }
       }
     },
@@ -2723,14 +2723,14 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "\"I stayed in Bridgewater four years, and as I said about the teacher's certificate I had. Well Mr. Cases(?) said today, [unintelligible] but they were was the case and with [unintelligible ends] repairing school furniture and things, here he is on me again [Cheryl laughs] he said I wat Mary to come home now. Said she's been to other schools and said \"\"I can have a place for her up at Lucy Simms the new school. [Cheryl starts to speak but Mary continues] Well, at that time, one girl named Jean Francis, she had quit, she got married and she quit [unintelligible] affair and was going to [unintelligible ends] school going to Washington DC, Maryland to live, but she stayed a half-year of the year that I would have had, but Mr. Keyes(?) said he didn't want nobody else to get it. So my, my youngest brother had married a girl from Staunton. She [unintelligible] painted it down [unintelligible ends] only slightly. And she took that half a year that was left in the second semester. Then when the school opened the next year, and I was in, [mic interference] four years.\"",
+        "value": "seeing one of the dads when I'm pushed up against the wall. But some people and I have moved to a point where I don't curse people out, you know, where I don't attack no go to",
         "format": "text/plain"
       },
       "target": {
         "source": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
-          "t": "2202.06,2291.97"
+          "t": "1347.749,1357.109"
         }
       }
     },
@@ -2744,14 +2744,14 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "You were up there for 24 years?",
+        "value": "get out my face. You know, you're in deep trouble. Were you ever? But I'd say you know, can you tell me my brother? But I did to offend you? You know, right. And sometimes people",
         "format": "text/plain"
       },
       "target": {
         "source": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
-          "t": "2292.09,2293.83"
+          "t": "1357.109,1366.109"
         }
       }
     },
@@ -2765,14 +2765,14 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "\"[unintelligible]Is it loose? [unintelligible ends] [Cheryl interjects \"\"At Lucy Simms?\"\"] I went in there in 1942/43 came out in 1966 that's when they closed the school. And I was there longer than anybody [unintelligible] come [unintelligible ends] Ms. Lucy Simms, never taught up there. She was dead before that school was built.\"",
+        "value": "say loud, I that. I said, Well, I'll come back to you. You know, we'll talk later and I walk away. But I might walk away humming because the humming gets me through the next",
         "format": "text/plain"
       },
       "target": {
         "source": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
-          "t": "2293.03,2317.12"
+          "t": "1366.109,1375.139"
         }
       }
     },
@@ -2786,14 +2786,14 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "But they named it after her?",
+        "value": "moment, you know, that hum, it makes me understand at some point, there are some people you know, who really have been taught never to go below this area, they've never been",
         "format": "text/plain"
       },
       "target": {
         "source": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
-          "t": "2318.23,2319.88"
+          "t": "1375.139,1384.649"
         }
       }
     },
@@ -2807,14 +2807,14 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "\"Because she taught 50 years [Cheryl starts to say \"\"Here in the community?\"\"] at the old school\"",
+        "value": "taught to go to the heart, or even the bloodstream, or even the mind or above the mind at all, that their thing is always let us be combative. Let us all let me stay right",
         "format": "text/plain"
       },
       "target": {
         "source": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
-          "t": "2320.72,2327.32"
+          "t": "1384.649,1395.359"
         }
       }
     },
@@ -2828,14 +2828,14 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "The one that you went to?",
+        "value": "here in the gut. And in the other part in the genitals, you know what I'm saying? Then, but the country keeps you in that level. If it can keep you hungry, always and stuff in",
         "format": "text/plain"
       },
       "target": {
         "source": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
-          "t": "2327.83,2328.85"
+          "t": "1395.359,1404.509"
         }
       }
     },
@@ -2849,14 +2849,14 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "[Says a name I believe, but not sure what] Well she taught down there over there at the place they called, um... [unintelligible] And was it please well you know being a budget not sure Dave that places [unintelligible ends]",
+        "value": "your mouth with food, you know, if it can keep you always looking at fighting people fighting all the time, so you get hot on you know, like, whoo, did they get that whatever, you",
         "format": "text/plain"
       },
       "target": {
         "source": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
-          "t": "2328.03,2342.97"
+          "t": "1404.509,1414.139"
         }
       }
     },
@@ -2870,14 +2870,14 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "Cedar Run?",
+        "value": "know, they can keep the girls young girls itching all the time to jump in somebodies bed, you know, because she thinks that's gonna make her a woman, you know, then you control",
         "format": "text/plain"
       },
       "target": {
         "source": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
-          "t": "2344.05,2344.92"
+          "t": "1414.139,1422.059"
         }
       }
     },
@@ -2891,14 +2891,14 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "No, it wasn't Ceda- Zenda. [overlapping dialogue]He really [overlap ends] is it still Zenda?",
+        "value": "the populace. But if you move their eyes up to the heart, and if you have a heart, you know, you do not kill. You know what I'm saying? You know, and if you have a mind, you look",
         "format": "text/plain"
       },
       "target": {
         "source": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
-          "t": "2345.56,2352.43"
+          "t": "1422.059,1432.499"
         }
       }
     },
@@ -2912,14 +2912,14 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "Well, I know the person researching I'll tell you about that later.",
+        "value": "at it in a different way began to say, Aha, but if you have the spirit, you know, spirit mixed with the mind. Also, do you know what I'm saying? The spirit and the soul. But then",
         "format": "text/plain"
       },
       "target": {
         "source": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
-          "t": "2352.97,2356.39"
+          "t": "1432.499,1442.969"
         }
       }
     },
@@ -2933,14 +2933,14 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "Well anyways, she taught at Zenda. Then she taught- then she came to Harrisonburg. And of course the school [unintelligible] then will know what might it was that with them [unintelligible ends] because they didn't have a high school and things like that.",
+        "value": "something else happens. And it has been that kind of motion and movement. And I've tried to do with my poetry. And in that piece, that's a hard piece, because all of a sudden, I",
         "format": "text/plain"
       },
       "target": {
         "source": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
-          "t": "2357.71,2371.48"
+          "t": "1442.969,1450.949"
         }
       }
     },
@@ -2954,14 +2954,14 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "\"How do you spell that? [Mary asks \"\"Which one?\"\"] Effinger?\"",
+        "value": "don't think you remember that poem when I read it two years ago, and I said, Sure. And I said, I have moved to another level. I don't write this kind of poem anymore. And then I",
         "format": "text/plain"
       },
       "target": {
         "source": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
-          "t": "2371.51,2374.57"
+          "t": "1450.949,1459.199"
         }
       }
     },
@@ -2975,14 +2975,14 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "\"E-F-F-I-N-G-E-R. It was named after the street. I think a man named Mr. Effinger must have owned the street like there's some of those people like to grant and like more grant money and see old houses and we lived in this [unintelligible] red dice [unintelligible ends] and my daddy said \"\"Well,\"\" he said \"\"I'm not gonna be paying this woman rent. And he [unintelligible] battle [unintelligible ends] over on Broad Street, just a corner lot. And he [unintelligible] put [unintelligible ends] that lot and built that house that's still standing there now.\"",
+        "value": "hurt myself set later on. I said, oops, what are you saying? If it's happening, you can't move to another level. whenever you've moved to another level girl, catch yourself, you",
         "format": "text/plain"
       },
       "target": {
         "source": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
-          "t": "2373.37,2417.65"
+          "t": "1459.199,1469.669"
         }
       }
     },
@@ -2996,14 +2996,14 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "\"Your daddy was a master [Mary says \"\"the big white house] master carpenter? Your daddy was a master carpenter?\"",
+        "value": "know, watch your mouth as opposed to say, you know, go watch your mouth where you say directions maybe are there, of course, other directions. But the point is what I understand",
         "format": "text/plain"
       },
       "target": {
         "source": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
-          "t": "2376.85,2425.03"
+          "t": "1469.669,1479.299"
         }
       }
     },
@@ -3017,14 +3017,14 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "Yeah they were builders, he and his brothers, all of them were builders.",
+        "value": "is that I can do this piece, a very middle class woman said to me, oh, Professor Sanchez, I just love your poetry. It is so lyrical. You know,",
         "format": "text/plain"
       },
       "target": {
         "source": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
-          "t": "2418.95,2429.03"
+          "t": "1479.389,1488.719"
         }
       }
     },
@@ -3038,14 +3038,14 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "And you said he was part Irish and part Native American?",
+        "value": "and that's like, just recently in the airport, when, you know, they grab you because you you're talking about the country and the war, and bush and all this stuff. Have you",
         "format": "text/plain"
       },
       "target": {
         "source": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
-          "t": "2429.09,2432.24"
+          "t": "1489.44,1500.27"
         }
       }
     },
@@ -3059,14 +3059,14 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "\"Part Irish and Indian, yes. [Cheryl starts to say \"\"What\"\"] You saw his picture over there?\"",
+        "value": "noticed happening? And Halliburton? You know, they just become a security risk? Yeah. And they sit, they sit and they tag you, you know, well, Grace Paley, the rider, all of",
         "format": "text/plain"
       },
       "target": {
         "source": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
-          "t": "2432.24,2436.23"
+          "t": "1500.27,1509.42"
         }
       }
     },
@@ -3080,14 +3080,14 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "Mhm, I saw his picture. Do you know what tribe he was with?",
+        "value": "us. I mean, the ACLU called me and said, you know, it's a list with all you peace people on it, you know what I'm saying? So we want you to know, so I put my name on the",
         "format": "text/plain"
       },
       "target": {
         "source": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
-          "t": "2436.719,2439.69"
+          "t": "1509.42,1517.88"
         }
       }
     },
@@ -3101,14 +3101,14 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "I know his mother was Irish, because his sister when she got older, I was the only child that saw her, because she was bedridden then, she was real old, and my father's sister was taking care of their mother. All of them, all of them looked like white people. The sisters, a whole bunch of them, they all were, all of them very fair-skinned ladies. And my daddy thought momma was peaches and cream [both laugh] and she was a good woman, a real good woman, good Christian woman. She was the one that taught me my first music.",
+        "value": "theme where they're going and file to get that list. So it can be published as such, but they grabbed me, but I'm coming out of Syracuse my system. And the woman never looks",
         "format": "text/plain"
       },
       "target": {
         "source": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
-          "t": "2441.61,2487.57"
+          "t": "1517.88,1529.61"
         }
       }
     },
@@ -3122,14 +3122,14 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "Your mother?",
+        "value": "up, the guy didn't even know when ddddd doing nothing with Dean Ding, ding, ding at all. But he saw the color code that they have on there. He said, We need you on the side. So I",
         "format": "text/plain"
       },
       "target": {
         "source": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
-          "t": "2487.99,2488.65"
+          "t": "1529.61,1541.7"
         }
       }
     },
@@ -3143,14 +3143,14 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "My mother went to school in Staunton, Virginia, she'd go to those schools [unintelligible] and very, [unintelligible ends] they didn't have the one child, and her father told her he wanted her to get the best, so he sent her to Staunton for school. And so after that, when I came to Simms, well, I was a musician for the school then; I'd had more and more music, take more everywhere I could get music, I would get it you know. I wa- [clears throat] I was up there had first grade, and sometimes, first and second. Well I just loved those little kids and those times were hard for older black people. They didn't have very good jobs; the men, if you couldn't work on a city, you know, pick up trash and stuff. That's what made my daddy and them special: they could do carpenter work but [unintelligible] the bean [unintelligible ends] could just do common street labor or digging ditches and stuff like that.",
+        "value": "said, Oh, is there a problem? Or did he go dangling, dangling? You know? And he says simply, well, yeah, that's when I was told. I mean, I was told about the brothers",
         "format": "text/plain"
       },
       "target": {
         "source": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
-          "t": "2488.0,2562.43"
+          "t": "1541.7,1551.21"
         }
       }
     },
@@ -3164,14 +3164,14 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "You talking about in the 40's or in 1940?",
+        "value": "outside, but I want to him to say it too, because it's bad. They won't say it. They just say oh, we just this is just something that we do with a few, you know, chosen people.",
         "format": "text/plain"
       },
       "target": {
         "source": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
-          "t": "2562.99,2566.83"
+          "t": "1551.21,1559.34"
         }
       }
     },
@@ -3185,14 +3185,14 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "Well let me see when was that now?  Yeah, during the 40's. And then my brother Fred - well his picture's around here somewhere - he was, around 18 and it was time to go to the army, and both my brothers had to go. But my daddy went to Newport News to work, so he could have some money to send mom, to send home, during that time. [unintelligible] would not think I made a point. Most Valuable want to get through a year. [unintelligible ends]",
+        "value": "But he said it because he saw me looking at him. So the black woman came along, she never looked up at all. She just said come this way, grab my briefcase, and my purse, and",
         "format": "text/plain"
       },
       "target": {
         "source": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
-          "t": "2567.53,2605.99"
+          "t": "1559.49,1568.97"
         }
       }
     },
@@ -3206,14 +3206,14 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "You were talking about it's hard for the men here in town. They didn't have any jobs.",
+        "value": "she's a Stand back, Stand back. And so she opened my purse, and she took my stuff and threw it like it was dirt and dirty. And I stood there just looked at her. I kept looking",
         "format": "text/plain"
       },
       "target": {
         "source": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
-          "t": "2607.7,2611.78"
+          "t": "1568.97,1583.19"
         }
       }
     },
@@ -3227,14 +3227,1421 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "\"No jobs much. Nothing much to do [unintelligible]when was going on year [unintelliglbe ends]. And, so then I came to Simms to teach. And we have had a lot of nice activities with the most beautiful [unintelligible] apparatus we have ever seen everything. We used to stay for the price of real estate as was offered over there. We had Peter McGregor. [unintelligible ends] We had \"\"All Around The World,\"\" where we had different nations, and we did the dances. We had one lady at our math school had been to uh [unintelligible]have been aware [unintelligible ends], but she knew all those foreign dances. And we take we have our [unintelligible] resume word [unintelligible ends]. We use children from the first through seventh grade, because the high school people had their own things to do. Then you had one operetta a year when you have one out really a year; we had \"\"The Kitchen Clock\"\" one year, and we get these [unintelligible] cat loads [unintelligible ends] and I go through 'em to see which [unintelligible] Good news that [unintelligible ends] children could do best, and I would work with the music, and the other elementary teachers would work with speaking parts; and then I get design, to draw and make stuff, and I'd sometimes draw the pictures of the costumes and the [unintelligible] T sub domestics will recall related to cooking dog systems and girls dance and then as the other teeth take a short recess and actually[unintelligible ends] I'd show the girls how to make those paper hats like [unintelligible] recognize the room [unintelligible ends] rosettes and all kinds of that, and my mother would make some of the costumes and some of the other women in the community would make costumes, and you'd send a picture. And then when they when they have this, this operetta, oh my goodness. And then I had do [unintelligible] lady [unintelligible] wrapping maple and [unintelligible]make leaves [unintelligible] and stuff. I did all the music for that, and all of the musical commencements in fact I did music all year round. And you have a picture of my choir there didn't you? [Cheryl confirms] All of these things happened at Simms, and those 24 it was almost my [tape ends]\"",
+        "value": "at the sister thinking, you know, it's hard, you know, you know, it's hard being human. And then she opened my brief did she put myself in fluid back in no order, zipped it.",
         "format": "text/plain"
       },
       "target": {
         "source": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
-          "t": "2611.0,2789.38"
+          "t": "1583.19,1593.18"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas/transcription-annotation-155.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Then she opened my briefcase. And the first thing she saw was my picture on a book that she said, Miss Sanchez. She looked at me for the first time. And I thought how often we",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1593.54,1603.98"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas/transcription-annotation-156.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "go through life. Jobs all over. We never look people in the eye. Because we're afraid of what we will see. We'll see ourselves we look people in the face, and we don't want to",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1603.98,1614.93"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas/transcription-annotation-157.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "see ourselves sometimes. She said, she whispered, why are they doing this to you? I said, My sister and I whisper bad they do a lindo they're doing it because I'm talking about",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1614.93,1623.81"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas/transcription-annotation-158.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "the war against the war about peace. Whatever said Oh, she said, Why don't you stop. I said, sister, if I stop, if I stop, if I'm other stop, who's gonna do that she lowered her",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1623.81,1637.13"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas/transcription-annotation-159.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "head, and she never finished going all the way through. She just kind of looked through it. And then she opened my bag, you know, the typical and took the stuff out the bag.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1637.13,1646.97"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas/transcription-annotation-160.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "started",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1649.73,1650.27"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas/transcription-annotation-161.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "the right way.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1652.069,1652.939"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas/transcription-annotation-162.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "She turned towards me. And I said, sister, I'm not here for your job. I know. You're sorry. But that's the state of the country now. walked on, you know? Yeah, we've gotten",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1654.53,1669.98"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas/transcription-annotation-163.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "to the point where it's very hard to see other people's pain. Well, it's very hard to come by the evil. Yeah,",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1669.98,1678.59"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas/transcription-annotation-164.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "it's very hard to see your own pain. See, if you see my pain and you know, you also have pain. And most of us, you know, camouflage it disguise drugs, alcohol, lots",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1679.25,1689.72"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas/transcription-annotation-165.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "of men, lots of women, you know, shopping on your lunch hour paying $2,000 for some clothes, you know, that's another way of doing it. You know what I'm saying? Whatever, you know,",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1689.72,1699.68"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas/transcription-annotation-166.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "going home, turning on the Erebus watching stupid stuff on television, that you laugh at laugh at yourselves, then going upstairs screwing. Getting up next morning going to",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1699.83,1709.94"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas/transcription-annotation-167.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "work? Oh, I'm happy. I'm happy, I'm happy. And this is how country controls people in such a way where they will not speak out. And what we're trying to do with this poetry when",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1709.94,1719.51"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas/transcription-annotation-168.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "I read that poetry, I read that poem to a group of young women who were just returning back to school, and they were about 20 Puerto Rican women, and 20 black women. And I read",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1719.51,1734.45"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas/transcription-annotation-169.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "that poem out loud. It wasn't it wasn't in the book at that time, right. It hadn't been published was almost published. And after I'd done the book that they had guided me with all",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1734.45,1744.35"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas/transcription-annotation-170.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "the questions, whatever. I said, The last time I read, I took a manuscript, and I read that poem, and there was this silence, and then a voice will correspond to Hey, hey,",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1744.35,1756.02"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas/transcription-annotation-171.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "that's just like Maria, ain't it? I wanted to collapse. I wanted to cry. I want to get down on my knees. I want to say no, no, no, no, no, no, no, but I knew it wasn't true. And",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1756.17,1766.58"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas/transcription-annotation-172.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "then a voice says, tell tell us Professor Sanchez. What is that? Well, and God understood the disconnection from teaching that they should have been taught that by a mother,",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1766.58,1779.48"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas/transcription-annotation-173.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "by an ad by a grandmother. I mean, it was I mean, they understood it was wrong, but they meant more than that. They meant like, tell us the cultural information that would keep",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1779.84,1789.44"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas/transcription-annotation-174.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "us from doing that. Tell us what we hold on to that we would never then take our children into a crack house is what they wanted. What they needed. You know what I'm saying? That's",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1789.44,1798.86"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas/transcription-annotation-175.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "what they wanted that That's what they needed. And so I ready to go out of there because all I've gone for pin the writers organization, I spent my hour in there. I know",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1798.86,1807.92"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas/transcription-annotation-176.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "getting ready.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1807.92,1808.34"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas/transcription-annotation-177.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "From that experience, I had to go back and repeat it, again, to teach them the culture in such a way, being women being human, that they would take that with them. So it went",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1824.53,1836.95"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas/transcription-annotation-178.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "beyond the poem. Do you know what I'm saying? And I got in, I said to the brother, I looked up the guy's name. I said, you know, Mr. Santiago, I said, I'm going to 10 West 1/35",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1836.95,1848.41"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas/transcription-annotation-179.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Street, my father's house. I said, I don't want to go downtown. You know, I know the Bronx, and I'm from New York. I said, but I have to close my eyes to go to sleep. I said,",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1848.41,1858.58"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas/transcription-annotation-180.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "and I'm tired. I'm really exhausted. But please get me there. And he said, I don't know you. And I seen you on television. I said, play it, Sonia. I say yes. You have my",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1858.88,1868.96"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas/transcription-annotation-181.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "buddy. Oh, yeah, yeah, I'll get you there. get you there, sister. I was out, I was out, because I had to keep from crying to keep from collapsing, and to say it over and over",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1868.96,1881.29"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas/transcription-annotation-182.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "again, to lose in grain, not only here, but here. And here. And here. And here. And here. You know, then I felt comfortable leaving. And then I heard this voice. Such as I",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1881.29,1894.16"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas/transcription-annotation-183.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "mean, wake up, wake up. And I was in front of my father's you know, I said, he said, don't pay me nothing. No, no, no, don't pay me. Nothing. Don't pay me nothing. It's my",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1894.16,1903.73"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas/transcription-annotation-184.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "privilege, whatever. And I got out one of the my father's house who was really not well, and you know, I really didn't know. You know, it was one of those days. I said, Listen,",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1903.73,1913.3"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas/transcription-annotation-185.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "that you know what just happened to me. Then I had to go into another arena, you know, with him, but my sister. That's how I see this thing called poetry. Most of the poets",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1913.3,1924.52"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas/transcription-annotation-186.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "I know, from Adrienne which all you lower Lord, john Jordan, Gwendolyn Brooks, Margot Walker. I said Alice Walker, Amiri Baraka, I  came at a booty a skill to Ray Neruda, Pablo",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1924.52,1943.18"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas/transcription-annotation-187.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Neruda. Nicholas, go, yeah, and, you know, Googlebot younger, Achebe, all these people? You know, we're on that in that same same Ginsburg. When I say a Paul Blackburn, a",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1943.18,1955.18"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas/transcription-annotation-188.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "man I teach from, from the big movement should teach Paul Blackburn, one of the first men who came up to me and said poet said to me, Sonia, you're not only a poet, but you're",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1955.18,1966.7"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas/transcription-annotation-189.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "very human. He said that you knew a New Yorker, though. He said, You always suck us out telling us where we're wrong, you know, encrusted without bees that I know that, you know,",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1966.7,1975.31"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas/transcription-annotation-190.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "if you know the culture, you know that the New York Times, oh, how could you write this about us? You know, whatever we loved, you know, you don't matter, you know, because you",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1975.64,1984.67"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas/transcription-annotation-191.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "loved us. You wouldn't have enslaved us. So don't go there. But you come at me, right? We can have a discussion about it. You understand what I'm saying? The difference? And Paul",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1984.67,1993.4"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas/transcription-annotation-192.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Blackburn is a really great poet. Paul Blackburn's really great, Paul, because he really was a fine writer, you know, offense, if you ever check him out from that period is worth",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1993.4,2004.47"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas/transcription-annotation-193.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "about teaching is a big movement and really work teaching a great deal. Ginsberg, I've taught Now again, yeah.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "2004.47,2012.12"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas/transcription-annotation-194.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Experiment with communal life only worked so well. difficulties. Right. He wanted to isolate people and give them an opportunity to wilderness and write and",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "2013.63,2028.3"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas/transcription-annotation-195.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "then come back to the urban setting and see if their values have changed. Okay. Well, let's just go to the very last question that I think you you've spoken to. We are each",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "2028.3,2044.53"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas/transcription-annotation-196.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "other's harvest. We are each other's business. We are each other's magnitude. And I love that line from Gwendolyn Brooks his poem on proverbs and, and I mentioned Paul",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "2044.56,2056.77"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas/transcription-annotation-197.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Robeson yesterday, and I introduced Amir Malacca. Because it occurred to me that we don't really know how to treat genius men who are black genius, anybody what genius women who have",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "2056.77,2073.63"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas/transcription-annotation-198.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "never put women in a genius class, but we are Yeah, that's correct. You know, you know. And, you know, and I was saying, you know, when we don't know what to do with them,",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "2073.78,2084.37"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas/transcription-annotation-199.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "we call them dangerous. Yeah, we attack them. You arrest them. We put them on all kinds of security lists. Women and men and then if they die conveniently, we put their heads on",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "2085.33,2098.41"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas/transcription-annotation-200.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "the stand. Oh yeah. I thought it was It's okay then yeah, it's okay then. And what your poetry has always been, for me, is a poetry that allowed me to really feel what other",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "2098.41,2112.93"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas/transcription-annotation-201.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "people felt. I will never forget, the first time I heard, don't never give up on the auditoria at leaving University, and I went, because I realized that you were saying to all",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "2112.93,2132.76"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas/transcription-annotation-202.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "of us, whatever the situation, whether it's a love relationship with a man, or a relationship with his daughter, mother, love is the final thing that you don't",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "2132.76,2146.56"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas/transcription-annotation-203.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "discard. And you may want to forget about the experience, you may want to even sort of put the person on hold for a little bit, but you never give up. And I've seen you show",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "2146.56,2160.99"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas/transcription-annotation-204.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "that grace of the universe. Through all of your poetry, you talk about children in El Salvador, in Guatemala, when you talk about children and Rwanda, and so done, it's done and,",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "2160.99,2173.5"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas/transcription-annotation-205.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "and Bosnia, you talk about the children in Iraq, when you talk about women, in the in New York, in Chicago, in crack houses, you talk about people who are oppressed, and people",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "2173.56,2188.95"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas/transcription-annotation-206.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "who often don't see anything that remotely resembles peace. Now, you are embracing the universe. And that is, what I see is just this remarkable thing about you, that always keeps",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "2188.95,2202.18"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas/transcription-annotation-207.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "me coming back to your poetry, and of course, coming back to you. Because I know that when I hear from you, it's going to be the truth is going to be kind, it's going to be also",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "2202.18,2214.66"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas/transcription-annotation-208.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "very, very precise. In terms of what you know about human nature, and what you know about our culture.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "2214.78,2222.34"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas/transcription-annotation-209.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "I remember seeing this little Sudanese boy, they asked him, What do you want? And the person who asked was an American, and he says, I want a bed, and some food to",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "2222.64,2232.84"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas/transcription-annotation-210.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "eat. And I said, how have we taken children to just the bare essentials. And the point of all of this has been from the Black Arts Movement to today has simply been no, was never",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "2232.84,2246.61"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas/transcription-annotation-211.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "about, you know, all of us being in poverty, but also said to everybody, we can all move to a different way of looking at the world and living, you know, is to bring people out of",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "2246.64,2257.23"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas/transcription-annotation-212.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "this poverty of the mind, spirit, you know, heart and soul. And I remember looking at that little boy's face, and I thought to myself, how can we as human beings in this",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "2257.23,2266.53"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas/transcription-annotation-213.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "country, you know, do this? How can people in Sudan, do this, where you have children who are asking only for a bed to sleep, and some food to eat? Not a computer, not, you",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "2266.53,2278.2"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas/transcription-annotation-214.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "know, you know, whatever, you know, but not a television, you know, not books, whatever, just that he said, You have brought me down to the bare essentials. And I cried out SS",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "2278.2,2288.7"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas/transcription-annotation-215.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "child, just give me a bit of some food to beat. And we're trying to do more than give you a bed and some food to eat. Thank you. So thank you my system. Thank you very much. Oh,",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "2288.7,2301.66"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas/transcription-annotation-216.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "boy. Do you guys talk to each other. Okay,",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "2301.66,2307.12"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas/transcription-annotation-217.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "I was I was rooting back here. I was trying to find my tissue, the tears were running down my face. And I couldn't, I couldn't reach it. But you know, I",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "2307.27,2316.87"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas/transcription-annotation-218.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "don't know whether we covered the questions that you want to do.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "2316.87,2320.47"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas/transcription-annotation-219.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "I tried to read the questions. So what I did is that we some of the answers to all of the question was not asked. We did a week. I tried to go okay. Because I",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "2320.529,2335.649"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas/transcription-annotation-220.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "remember seeing the questions and then that's why we went places. Okay. Yes, it was wonderful. You took me back. I you know, I did forget that you were in here for a few minutes.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "2335.649,2344.949"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas/transcription-annotation-221.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Oh my god. Well, thank you. Thank you. Thank",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "2345.039,2349.689"
         }
       }
     }
