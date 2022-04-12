@@ -7,7 +7,7 @@
       {
         "id": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas",
         "type": "Canvas",
-        "duration": 600,
+        "duration": 2350,
         "items": [
           {
             "id": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/paintings",
@@ -19,7 +19,7 @@
                 "motivation": "painting",
                 "body": {
                   "id": "",
-                    "duration": 600
+                    "duration": 2350
                 },
                 "target": "https://KevinHegg.github.io/kjhtest/headless-test/canvas-1/canvas"
               }
