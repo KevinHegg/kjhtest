@@ -6,6 +6,27 @@
   "items": [
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://KevinHegg.github.io/kjhtest/testing-some-conversion-code/canvas-1/canvas/transcription-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "-a, D-u capital E-w-a, J-o-n-e-s.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://KevinHegg.github.io/kjhtest/testing-some-conversion-code/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "6.33,8.88"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
       "id": "https://KevinHegg.github.io/kjhtest/testing-some-conversion-code/canvas-1/canvas/transcription-annotation-1.json",
       "type": "Annotation",
       "motivation": [
