@@ -1,0 +1,2969 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://KevinHegg.github.io/kjhtest/second-test/canvas-1/canvas/speaker.json",
+  "type": "AnnotationPage",
+  "label": "Speaker",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://KevinHegg.github.io/kjhtest/second-test/canvas-1/canvas/speaker-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color='gray'><b>Meta DuEwa Jones</b></font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://KevinHegg.github.io/kjhtest/second-test/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "6.33,8.88"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://KevinHegg.github.io/kjhtest/second-test/canvas-1/canvas/speaker-annotation-1.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color='indigo'><b>Elizabeth Alexander</b></font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://KevinHegg.github.io/kjhtest/second-test/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "11.4,17.34"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://KevinHegg.github.io/kjhtest/second-test/canvas-1/canvas/speaker-annotation-2.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color='gray'><b>Meta DuEwa Jones</b></font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://KevinHegg.github.io/kjhtest/second-test/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "17.0,31.97"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://KevinHegg.github.io/kjhtest/second-test/canvas-1/canvas/speaker-annotation-3.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color='indigo'><b>Elizabeth Alexander</b></font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://KevinHegg.github.io/kjhtest/second-test/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "66.96,76.71"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://KevinHegg.github.io/kjhtest/second-test/canvas-1/canvas/speaker-annotation-4.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color='gray'><b>Meta DuEwa Jones</b></font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://KevinHegg.github.io/kjhtest/second-test/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "186.38,196.25"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://KevinHegg.github.io/kjhtest/second-test/canvas-1/canvas/speaker-annotation-5.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color='indigo'><b>Elizabeth Alexander</b></font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://KevinHegg.github.io/kjhtest/second-test/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "250.76,251.42"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://KevinHegg.github.io/kjhtest/second-test/canvas-1/canvas/speaker-annotation-6.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color='gray'><b>Meta DuEwa Jones</b></font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://KevinHegg.github.io/kjhtest/second-test/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "251.42,263.99"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://KevinHegg.github.io/kjhtest/second-test/canvas-1/canvas/speaker-annotation-7.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color='indigo'><b>Elizabeth Alexander</b></font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://KevinHegg.github.io/kjhtest/second-test/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "302.51,316.43"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://KevinHegg.github.io/kjhtest/second-test/canvas-1/canvas/speaker-annotation-8.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color='gray'><b>Meta DuEwa Jones</b></font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://KevinHegg.github.io/kjhtest/second-test/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "382.61,382.88"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://KevinHegg.github.io/kjhtest/second-test/canvas-1/canvas/speaker-annotation-9.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color='indigo'><b>Elizabeth Alexander</b></font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://KevinHegg.github.io/kjhtest/second-test/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "382.91,385.13"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://KevinHegg.github.io/kjhtest/second-test/canvas-1/canvas/speaker-annotation-10.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color='gray'><b>Meta DuEwa Jones</b></font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://KevinHegg.github.io/kjhtest/second-test/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "385.0,388.36"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://KevinHegg.github.io/kjhtest/second-test/canvas-1/canvas/speaker-annotation-11.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color='gray'><b>Meta DuEwa Jones</b></font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://KevinHegg.github.io/kjhtest/second-test/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "385.13,385.76"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://KevinHegg.github.io/kjhtest/second-test/canvas-1/canvas/speaker-annotation-12.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color='indigo'><b>Elizabeth Alexander</b></font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://KevinHegg.github.io/kjhtest/second-test/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "385.25,389.72"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://KevinHegg.github.io/kjhtest/second-test/canvas-1/canvas/speaker-annotation-13.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color='indigo'><b>Elizabeth Alexander</b></font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://KevinHegg.github.io/kjhtest/second-test/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "389.68,400.63"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://KevinHegg.github.io/kjhtest/second-test/canvas-1/canvas/speaker-annotation-14.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color='gray'><b>Meta DuEwa Jones</b></font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://KevinHegg.github.io/kjhtest/second-test/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "408.14,419.299"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://KevinHegg.github.io/kjhtest/second-test/canvas-1/canvas/speaker-annotation-15.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color='indigo'><b>Elizabeth Alexander</b></font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://KevinHegg.github.io/kjhtest/second-test/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "415.98,505.11"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://KevinHegg.github.io/kjhtest/second-test/canvas-1/canvas/speaker-annotation-16.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color='gray'><b>Meta DuEwa Jones</b></font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://KevinHegg.github.io/kjhtest/second-test/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "508.26,508.53"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://KevinHegg.github.io/kjhtest/second-test/canvas-1/canvas/speaker-annotation-17.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color='indigo'><b>Elizabeth Alexander</b></font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://KevinHegg.github.io/kjhtest/second-test/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "509.02,521.86"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://KevinHegg.github.io/kjhtest/second-test/canvas-1/canvas/speaker-annotation-18.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color='gray'><b>Meta DuEwa Jones</b></font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://KevinHegg.github.io/kjhtest/second-test/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "606.55,607.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://KevinHegg.github.io/kjhtest/second-test/canvas-1/canvas/speaker-annotation-19.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color='indigo'><b>Elizabeth Alexander</b></font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://KevinHegg.github.io/kjhtest/second-test/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "607.06,609.49"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://KevinHegg.github.io/kjhtest/second-test/canvas-1/canvas/speaker-annotation-20.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color='gray'><b>Meta DuEwa Jones</b></font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://KevinHegg.github.io/kjhtest/second-test/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "609.52,609.82"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://KevinHegg.github.io/kjhtest/second-test/canvas-1/canvas/speaker-annotation-21.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color='indigo'><b>Elizabeth Alexander</b></font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://KevinHegg.github.io/kjhtest/second-test/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "610.56,625.44"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://KevinHegg.github.io/kjhtest/second-test/canvas-1/canvas/speaker-annotation-22.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color='gray'><b>Meta DuEwa Jones</b></font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://KevinHegg.github.io/kjhtest/second-test/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "660.24,661.77"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://KevinHegg.github.io/kjhtest/second-test/canvas-1/canvas/speaker-annotation-23.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color='indigo'><b>Elizabeth Alexander</b></font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://KevinHegg.github.io/kjhtest/second-test/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "661.77,662.46"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://KevinHegg.github.io/kjhtest/second-test/canvas-1/canvas/speaker-annotation-24.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color='gray'><b>Meta DuEwa Jones</b></font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://KevinHegg.github.io/kjhtest/second-test/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "662.51,672.32"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://KevinHegg.github.io/kjhtest/second-test/canvas-1/canvas/speaker-annotation-25.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color='indigo'><b>Elizabeth Alexander</b></font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://KevinHegg.github.io/kjhtest/second-test/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "741.44,752.81"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://KevinHegg.github.io/kjhtest/second-test/canvas-1/canvas/speaker-annotation-26.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color='gray'><b>Meta DuEwa Jones</b></font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://KevinHegg.github.io/kjhtest/second-test/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "767.78,768.2"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://KevinHegg.github.io/kjhtest/second-test/canvas-1/canvas/speaker-annotation-27.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color='indigo'><b>Elizabeth Alexander</b></font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://KevinHegg.github.io/kjhtest/second-test/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "768.23,776.6"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://KevinHegg.github.io/kjhtest/second-test/canvas-1/canvas/speaker-annotation-28.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color='gray'><b>Meta DuEwa Jones</b></font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://KevinHegg.github.io/kjhtest/second-test/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "801.23,809.9"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://KevinHegg.github.io/kjhtest/second-test/canvas-1/canvas/speaker-annotation-29.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color='indigo'><b>Elizabeth Alexander</b></font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://KevinHegg.github.io/kjhtest/second-test/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "911.63,926.81"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://KevinHegg.github.io/kjhtest/second-test/canvas-1/canvas/speaker-annotation-30.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color='gray'><b>Meta DuEwa Jones</b></font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://KevinHegg.github.io/kjhtest/second-test/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "951.45,952.92"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://KevinHegg.github.io/kjhtest/second-test/canvas-1/canvas/speaker-annotation-31.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color='indigo'><b>Elizabeth Alexander</b></font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://KevinHegg.github.io/kjhtest/second-test/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "952.92,953.88"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://KevinHegg.github.io/kjhtest/second-test/canvas-1/canvas/speaker-annotation-32.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color='gray'><b>Meta DuEwa Jones</b></font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://KevinHegg.github.io/kjhtest/second-test/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "953.879,962.969"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://KevinHegg.github.io/kjhtest/second-test/canvas-1/canvas/speaker-annotation-33.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color='indigo'><b>Elizabeth Alexander</b></font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://KevinHegg.github.io/kjhtest/second-test/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "957.92,959.57"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://KevinHegg.github.io/kjhtest/second-test/canvas-1/canvas/speaker-annotation-34.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color='gray'><b>Meta DuEwa Jones</b></font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://KevinHegg.github.io/kjhtest/second-test/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "960.11,975.08"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://KevinHegg.github.io/kjhtest/second-test/canvas-1/canvas/speaker-annotation-35.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color='indigo'><b>Elizabeth Alexander</b></font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://KevinHegg.github.io/kjhtest/second-test/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "991.82,992.99"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://KevinHegg.github.io/kjhtest/second-test/canvas-1/canvas/speaker-annotation-36.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color='gray'><b>Meta DuEwa Jones</b></font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://KevinHegg.github.io/kjhtest/second-test/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "992.0,998.75"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://KevinHegg.github.io/kjhtest/second-test/canvas-1/canvas/speaker-annotation-37.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color='indigo'><b>Elizabeth Alexander</b></font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://KevinHegg.github.io/kjhtest/second-test/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "998.75,999.86"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://KevinHegg.github.io/kjhtest/second-test/canvas-1/canvas/speaker-annotation-38.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color='gray'><b>Meta DuEwa Jones</b></font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://KevinHegg.github.io/kjhtest/second-test/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "999.839,1011.451"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://KevinHegg.github.io/kjhtest/second-test/canvas-1/canvas/speaker-annotation-39.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color='indigo'><b>Elizabeth Alexander</b></font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://KevinHegg.github.io/kjhtest/second-test/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1010.82,1013.61"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://KevinHegg.github.io/kjhtest/second-test/canvas-1/canvas/speaker-annotation-40.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color='gray'><b>Meta DuEwa Jones</b></font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://KevinHegg.github.io/kjhtest/second-test/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1039.5,1044.24"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://KevinHegg.github.io/kjhtest/second-test/canvas-1/canvas/speaker-annotation-41.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color='indigo'><b>Elizabeth Alexander</b></font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://KevinHegg.github.io/kjhtest/second-test/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1044.0,1057.11"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://KevinHegg.github.io/kjhtest/second-test/canvas-1/canvas/speaker-annotation-42.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color='gray'><b>Meta DuEwa Jones</b></font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://KevinHegg.github.io/kjhtest/second-test/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1081.92,1082.34"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://KevinHegg.github.io/kjhtest/second-test/canvas-1/canvas/speaker-annotation-43.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color='indigo'><b>Elizabeth Alexander</b></font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://KevinHegg.github.io/kjhtest/second-test/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1082.93,1084.91"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://KevinHegg.github.io/kjhtest/second-test/canvas-1/canvas/speaker-annotation-44.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color='gray'><b>Meta DuEwa Jones</b></font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://KevinHegg.github.io/kjhtest/second-test/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1084.95,1085.31"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://KevinHegg.github.io/kjhtest/second-test/canvas-1/canvas/speaker-annotation-45.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color='indigo'><b>Elizabeth Alexander</b></font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://KevinHegg.github.io/kjhtest/second-test/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1085.37,1097.16"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://KevinHegg.github.io/kjhtest/second-test/canvas-1/canvas/speaker-annotation-46.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color='gray'><b>Meta DuEwa Jones</b></font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://KevinHegg.github.io/kjhtest/second-test/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1097.16,1097.94"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://KevinHegg.github.io/kjhtest/second-test/canvas-1/canvas/speaker-annotation-47.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color='indigo'><b>Elizabeth Alexander</b></font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://KevinHegg.github.io/kjhtest/second-test/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1098.48,1105.68"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://KevinHegg.github.io/kjhtest/second-test/canvas-1/canvas/speaker-annotation-48.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color='gray'><b>Meta DuEwa Jones</b></font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://KevinHegg.github.io/kjhtest/second-test/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1105.68,1106.31"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://KevinHegg.github.io/kjhtest/second-test/canvas-1/canvas/speaker-annotation-49.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color='indigo'><b>Elizabeth Alexander</b></font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://KevinHegg.github.io/kjhtest/second-test/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1106.33,1117.16"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://KevinHegg.github.io/kjhtest/second-test/canvas-1/canvas/speaker-annotation-50.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color='gray'><b>Meta DuEwa Jones</b></font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://KevinHegg.github.io/kjhtest/second-test/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1231.13,1231.76"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://KevinHegg.github.io/kjhtest/second-test/canvas-1/canvas/speaker-annotation-51.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color='indigo'><b>Elizabeth Alexander</b></font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://KevinHegg.github.io/kjhtest/second-test/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1231.76,1243.13"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://KevinHegg.github.io/kjhtest/second-test/canvas-1/canvas/speaker-annotation-52.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color='gray'><b>Meta DuEwa Jones</b></font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://KevinHegg.github.io/kjhtest/second-test/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1243.13,1244.24"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://KevinHegg.github.io/kjhtest/second-test/canvas-1/canvas/speaker-annotation-53.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color='indigo'><b>Elizabeth Alexander</b></font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://KevinHegg.github.io/kjhtest/second-test/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1244.0,1254.53"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://KevinHegg.github.io/kjhtest/second-test/canvas-1/canvas/speaker-annotation-54.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color='gray'><b>Meta DuEwa Jones</b></font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://KevinHegg.github.io/kjhtest/second-test/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1275.35,1283.06"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://KevinHegg.github.io/kjhtest/second-test/canvas-1/canvas/speaker-annotation-55.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color='indigo'><b>Elizabeth Alexander</b></font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://KevinHegg.github.io/kjhtest/second-test/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1284.08,1292.96"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://KevinHegg.github.io/kjhtest/second-test/canvas-1/canvas/speaker-annotation-56.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color='gray'><b>Meta DuEwa Jones</b></font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://KevinHegg.github.io/kjhtest/second-test/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1305.29,1305.8"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://KevinHegg.github.io/kjhtest/second-test/canvas-1/canvas/speaker-annotation-57.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color='indigo'><b>Elizabeth Alexander</b></font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://KevinHegg.github.io/kjhtest/second-test/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1305.89,1321.01"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://KevinHegg.github.io/kjhtest/second-test/canvas-1/canvas/speaker-annotation-58.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color='gray'><b>Meta DuEwa Jones</b></font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://KevinHegg.github.io/kjhtest/second-test/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1335.35,1337.18"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://KevinHegg.github.io/kjhtest/second-test/canvas-1/canvas/speaker-annotation-59.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color='indigo'><b>Elizabeth Alexander</b></font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://KevinHegg.github.io/kjhtest/second-test/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1337.0,1347.036"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://KevinHegg.github.io/kjhtest/second-test/canvas-1/canvas/speaker-annotation-60.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color='gray'><b>Meta DuEwa Jones</b></font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://KevinHegg.github.io/kjhtest/second-test/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1362.23,1364.96"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://KevinHegg.github.io/kjhtest/second-test/canvas-1/canvas/speaker-annotation-61.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color='indigo'><b>Elizabeth Alexander</b></font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://KevinHegg.github.io/kjhtest/second-test/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1364.96,1372.43"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://KevinHegg.github.io/kjhtest/second-test/canvas-1/canvas/speaker-annotation-62.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color='gray'><b>Meta DuEwa Jones</b></font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://KevinHegg.github.io/kjhtest/second-test/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1372.43,1377.23"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://KevinHegg.github.io/kjhtest/second-test/canvas-1/canvas/speaker-annotation-63.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color='gray'><b>Meta DuEwa Jones</b></font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://KevinHegg.github.io/kjhtest/second-test/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1377.0,1382.58"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://KevinHegg.github.io/kjhtest/second-test/canvas-1/canvas/speaker-annotation-64.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color='indigo'><b>Elizabeth Alexander</b></font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://KevinHegg.github.io/kjhtest/second-test/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1377.26,1377.68"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://KevinHegg.github.io/kjhtest/second-test/canvas-1/canvas/speaker-annotation-65.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color='indigo'><b>Elizabeth Alexander</b></font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://KevinHegg.github.io/kjhtest/second-test/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1382.58,1389.36"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://KevinHegg.github.io/kjhtest/second-test/canvas-1/canvas/speaker-annotation-66.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color='gray'><b>Meta DuEwa Jones</b></font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://KevinHegg.github.io/kjhtest/second-test/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1389.87,1401.96"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://KevinHegg.github.io/kjhtest/second-test/canvas-1/canvas/speaker-annotation-67.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color='indigo'><b>Elizabeth Alexander</b></font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://KevinHegg.github.io/kjhtest/second-test/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1403.57,1416.47"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://KevinHegg.github.io/kjhtest/second-test/canvas-1/canvas/speaker-annotation-68.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color='gray'><b>Meta DuEwa Jones</b></font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://KevinHegg.github.io/kjhtest/second-test/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1444.4,1445.69"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://KevinHegg.github.io/kjhtest/second-test/canvas-1/canvas/speaker-annotation-69.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color='indigo'><b>Elizabeth Alexander</b></font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://KevinHegg.github.io/kjhtest/second-test/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1445.75,1456.97"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://KevinHegg.github.io/kjhtest/second-test/canvas-1/canvas/speaker-annotation-70.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color='gray'><b>Meta DuEwa Jones</b></font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://KevinHegg.github.io/kjhtest/second-test/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1542.56,1544.27"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://KevinHegg.github.io/kjhtest/second-test/canvas-1/canvas/speaker-annotation-71.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color='indigo'><b>Elizabeth Alexander</b></font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://KevinHegg.github.io/kjhtest/second-test/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1544.33,1556.45"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://KevinHegg.github.io/kjhtest/second-test/canvas-1/canvas/speaker-annotation-72.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color='gray'><b>Meta DuEwa Jones</b></font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://KevinHegg.github.io/kjhtest/second-test/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1565.45,1565.99"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://KevinHegg.github.io/kjhtest/second-test/canvas-1/canvas/speaker-annotation-73.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color='indigo'><b>Elizabeth Alexander</b></font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://KevinHegg.github.io/kjhtest/second-test/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1566.02,1576.7"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://KevinHegg.github.io/kjhtest/second-test/canvas-1/canvas/speaker-annotation-74.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color='gray'><b>Meta DuEwa Jones</b></font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://KevinHegg.github.io/kjhtest/second-test/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1578.5,1588.703"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://KevinHegg.github.io/kjhtest/second-test/canvas-1/canvas/speaker-annotation-75.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color='indigo'><b>Elizabeth Alexander</b></font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://KevinHegg.github.io/kjhtest/second-test/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1601.01,1614.606"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://KevinHegg.github.io/kjhtest/second-test/canvas-1/canvas/speaker-annotation-76.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color='gray'><b>Meta DuEwa Jones</b></font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://KevinHegg.github.io/kjhtest/second-test/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1607.45,1675.61"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://KevinHegg.github.io/kjhtest/second-test/canvas-1/canvas/speaker-annotation-77.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color='indigo'><b>Elizabeth Alexander</b></font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://KevinHegg.github.io/kjhtest/second-test/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1702.37,1716.26"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://KevinHegg.github.io/kjhtest/second-test/canvas-1/canvas/speaker-annotation-78.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color='gray'><b>Meta DuEwa Jones</b></font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://KevinHegg.github.io/kjhtest/second-test/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1723.28,1734.32"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://KevinHegg.github.io/kjhtest/second-test/canvas-1/canvas/speaker-annotation-79.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color='indigo'><b>Elizabeth Alexander</b></font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://KevinHegg.github.io/kjhtest/second-test/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1744.52,1755.32"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://KevinHegg.github.io/kjhtest/second-test/canvas-1/canvas/speaker-annotation-80.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color='gray'><b>Meta DuEwa Jones</b></font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://KevinHegg.github.io/kjhtest/second-test/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1784.69,1785.44"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://KevinHegg.github.io/kjhtest/second-test/canvas-1/canvas/speaker-annotation-81.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color='indigo'><b>Elizabeth Alexander</b></font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://KevinHegg.github.io/kjhtest/second-test/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1785.44,1796.84"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://KevinHegg.github.io/kjhtest/second-test/canvas-1/canvas/speaker-annotation-82.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color='gray'><b>Meta DuEwa Jones</b></font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://KevinHegg.github.io/kjhtest/second-test/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1844.3,1845.11"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://KevinHegg.github.io/kjhtest/second-test/canvas-1/canvas/speaker-annotation-83.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color='indigo'><b>Elizabeth Alexander</b></font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://KevinHegg.github.io/kjhtest/second-test/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1845.32,1850.45"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://KevinHegg.github.io/kjhtest/second-test/canvas-1/canvas/speaker-annotation-84.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color='gray'><b>Meta DuEwa Jones</b></font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://KevinHegg.github.io/kjhtest/second-test/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1851.02,1852.04"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://KevinHegg.github.io/kjhtest/second-test/canvas-1/canvas/speaker-annotation-85.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color='indigo'><b>Elizabeth Alexander</b></font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://KevinHegg.github.io/kjhtest/second-test/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1852.04,1863.32"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://KevinHegg.github.io/kjhtest/second-test/canvas-1/canvas/speaker-annotation-86.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color='gray'><b>Meta DuEwa Jones</b></font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://KevinHegg.github.io/kjhtest/second-test/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1889.39,1892.03"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://KevinHegg.github.io/kjhtest/second-test/canvas-1/canvas/speaker-annotation-87.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Speaker Unknown",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://KevinHegg.github.io/kjhtest/second-test/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1892.03,1893.17"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://KevinHegg.github.io/kjhtest/second-test/canvas-1/canvas/speaker-annotation-88.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color='indigo'><b>Elizabeth Alexander</b></font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://KevinHegg.github.io/kjhtest/second-test/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1895.0,1896.89"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://KevinHegg.github.io/kjhtest/second-test/canvas-1/canvas/speaker-annotation-89.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color='gray'><b>Meta DuEwa Jones</b></font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://KevinHegg.github.io/kjhtest/second-test/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1896.89,1897.61"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://KevinHegg.github.io/kjhtest/second-test/canvas-1/canvas/speaker-annotation-90.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color='indigo'><b>Elizabeth Alexander</b></font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://KevinHegg.github.io/kjhtest/second-test/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1897.61,1898.18"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://KevinHegg.github.io/kjhtest/second-test/canvas-1/canvas/speaker-annotation-91.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color='gray'><b>Meta DuEwa Jones</b></font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://KevinHegg.github.io/kjhtest/second-test/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1898.18,1898.45"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://KevinHegg.github.io/kjhtest/second-test/canvas-1/canvas/speaker-annotation-92.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color='indigo'><b>Elizabeth Alexander</b></font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://KevinHegg.github.io/kjhtest/second-test/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1898.51,1899.56"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://KevinHegg.github.io/kjhtest/second-test/canvas-1/canvas/speaker-annotation-93.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color='gray'><b>Meta DuEwa Jones</b></font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://KevinHegg.github.io/kjhtest/second-test/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1899.59,1900.19"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://KevinHegg.github.io/kjhtest/second-test/canvas-1/canvas/speaker-annotation-94.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color='indigo'><b>Elizabeth Alexander</b></font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://KevinHegg.github.io/kjhtest/second-test/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1900.19,1906.79"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://KevinHegg.github.io/kjhtest/second-test/canvas-1/canvas/speaker-annotation-95.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color='gray'><b>Meta DuEwa Jones</b></font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://KevinHegg.github.io/kjhtest/second-test/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1906.82,1907.21"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://KevinHegg.github.io/kjhtest/second-test/canvas-1/canvas/speaker-annotation-96.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color='indigo'><b>Elizabeth Alexander</b></font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://KevinHegg.github.io/kjhtest/second-test/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1907.21,1910.78"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://KevinHegg.github.io/kjhtest/second-test/canvas-1/canvas/speaker-annotation-97.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color='gray'><b>Meta DuEwa Jones</b></font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://KevinHegg.github.io/kjhtest/second-test/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1911.38,1912.97"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://KevinHegg.github.io/kjhtest/second-test/canvas-1/canvas/speaker-annotation-98.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color='indigo'><b>Elizabeth Alexander</b></font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://KevinHegg.github.io/kjhtest/second-test/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1913.0,1924.19"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://KevinHegg.github.io/kjhtest/second-test/canvas-1/canvas/speaker-annotation-99.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Speaker Unknown",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://KevinHegg.github.io/kjhtest/second-test/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "2015.84,2016.71"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://KevinHegg.github.io/kjhtest/second-test/canvas-1/canvas/speaker-annotation-100.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color='indigo'><b>Elizabeth Alexander</b></font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://KevinHegg.github.io/kjhtest/second-test/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "2016.71,2016.8"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://KevinHegg.github.io/kjhtest/second-test/canvas-1/canvas/speaker-annotation-101.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color='gray'><b>Meta DuEwa Jones</b></font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://KevinHegg.github.io/kjhtest/second-test/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "2016.89,2018.12"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://KevinHegg.github.io/kjhtest/second-test/canvas-1/canvas/speaker-annotation-102.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Speaker Unknown",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://KevinHegg.github.io/kjhtest/second-test/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "2018.12,2019.02"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://KevinHegg.github.io/kjhtest/second-test/canvas-1/canvas/speaker-annotation-103.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color='indigo'><b>Elizabeth Alexander</b></font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://KevinHegg.github.io/kjhtest/second-test/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "2019.02,2019.38"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://KevinHegg.github.io/kjhtest/second-test/canvas-1/canvas/speaker-annotation-104.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color='gray'><b>Meta DuEwa Jones</b></font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://KevinHegg.github.io/kjhtest/second-test/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "2019.47,2029.19"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://KevinHegg.github.io/kjhtest/second-test/canvas-1/canvas/speaker-annotation-105.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color='indigo'><b>Elizabeth Alexander</b></font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://KevinHegg.github.io/kjhtest/second-test/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "2089.43,2103.38"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://KevinHegg.github.io/kjhtest/second-test/canvas-1/canvas/speaker-annotation-106.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color='gray'><b>Meta DuEwa Jones</b></font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://KevinHegg.github.io/kjhtest/second-test/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "2116.97,2117.33"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://KevinHegg.github.io/kjhtest/second-test/canvas-1/canvas/speaker-annotation-107.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color='indigo'><b>Elizabeth Alexander</b></font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://KevinHegg.github.io/kjhtest/second-test/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "2117.36,2130.5"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://KevinHegg.github.io/kjhtest/second-test/canvas-1/canvas/speaker-annotation-108.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color='gray'><b>Meta DuEwa Jones</b></font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://KevinHegg.github.io/kjhtest/second-test/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "2166.77,2169.26"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://KevinHegg.github.io/kjhtest/second-test/canvas-1/canvas/speaker-annotation-109.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color='indigo'><b>Elizabeth Alexander</b></font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://KevinHegg.github.io/kjhtest/second-test/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "2169.29,2178.71"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://KevinHegg.github.io/kjhtest/second-test/canvas-1/canvas/speaker-annotation-110.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color='gray'><b>Meta DuEwa Jones</b></font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://KevinHegg.github.io/kjhtest/second-test/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "2178.8,2182.28"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://KevinHegg.github.io/kjhtest/second-test/canvas-1/canvas/speaker-annotation-111.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Speaker Unknown",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://KevinHegg.github.io/kjhtest/second-test/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "2182.34,2184.71"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://KevinHegg.github.io/kjhtest/second-test/canvas-1/canvas/speaker-annotation-112.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color='indigo'><b>Elizabeth Alexander</b></font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://KevinHegg.github.io/kjhtest/second-test/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "2188.55,2188.94"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://KevinHegg.github.io/kjhtest/second-test/canvas-1/canvas/speaker-annotation-113.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color='gray'><b>Meta DuEwa Jones</b></font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://KevinHegg.github.io/kjhtest/second-test/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "2188.94,2189.12"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://KevinHegg.github.io/kjhtest/second-test/canvas-1/canvas/speaker-annotation-114.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Speaker Unknown",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://KevinHegg.github.io/kjhtest/second-test/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "2189.12,2192.96"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://KevinHegg.github.io/kjhtest/second-test/canvas-1/canvas/speaker-annotation-115.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color='gray'><b>Meta DuEwa Jones</b></font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://KevinHegg.github.io/kjhtest/second-test/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "2192.99,2194.28"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://KevinHegg.github.io/kjhtest/second-test/canvas-1/canvas/speaker-annotation-116.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color='indigo'><b>Elizabeth Alexander</b></font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://KevinHegg.github.io/kjhtest/second-test/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "2194.73,2195.54"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://KevinHegg.github.io/kjhtest/second-test/canvas-1/canvas/speaker-annotation-117.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color='gray'><b>Meta DuEwa Jones</b></font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://KevinHegg.github.io/kjhtest/second-test/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "2195.54,2197.43"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://KevinHegg.github.io/kjhtest/second-test/canvas-1/canvas/speaker-annotation-118.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color='indigo'><b>Elizabeth Alexander</b></font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://KevinHegg.github.io/kjhtest/second-test/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "2197.43,2202.68"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://KevinHegg.github.io/kjhtest/second-test/canvas-1/canvas/speaker-annotation-119.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color='gray'><b>Meta DuEwa Jones</b></font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://KevinHegg.github.io/kjhtest/second-test/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "2202.68,2205.62"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://KevinHegg.github.io/kjhtest/second-test/canvas-1/canvas/speaker-annotation-120.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color='indigo'><b>Elizabeth Alexander</b></font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://KevinHegg.github.io/kjhtest/second-test/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "2205.62,2207.9"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://KevinHegg.github.io/kjhtest/second-test/canvas-1/canvas/speaker-annotation-121.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Speaker Unknown",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://KevinHegg.github.io/kjhtest/second-test/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "2209.31,2210.81"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://KevinHegg.github.io/kjhtest/second-test/canvas-1/canvas/speaker-annotation-122.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color='gray'><b>Meta DuEwa Jones</b></font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://KevinHegg.github.io/kjhtest/second-test/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "2210.81,2214.35"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://KevinHegg.github.io/kjhtest/second-test/canvas-1/canvas/speaker-annotation-123.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color='indigo'><b>Elizabeth Alexander</b></font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://KevinHegg.github.io/kjhtest/second-test/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "2215.46,2216.69"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://KevinHegg.github.io/kjhtest/second-test/canvas-1/canvas/speaker-annotation-124.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Speaker Unknown",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://KevinHegg.github.io/kjhtest/second-test/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "2219.9,2220.14"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://KevinHegg.github.io/kjhtest/second-test/canvas-1/canvas/speaker-annotation-125.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color='indigo'><b>Elizabeth Alexander</b></font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://KevinHegg.github.io/kjhtest/second-test/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "2220.44,2220.89"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://KevinHegg.github.io/kjhtest/second-test/canvas-1/canvas/speaker-annotation-126.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Speaker Unknown",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://KevinHegg.github.io/kjhtest/second-test/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "2220.89,2221.1"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://KevinHegg.github.io/kjhtest/second-test/canvas-1/canvas/speaker-annotation-127.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color='gray'><b>Meta DuEwa Jones</b></font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://KevinHegg.github.io/kjhtest/second-test/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "2221.1,2222.06"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://KevinHegg.github.io/kjhtest/second-test/canvas-1/canvas/speaker-annotation-128.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color='indigo'><b>Elizabeth Alexander</b></font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://KevinHegg.github.io/kjhtest/second-test/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "2222.06,2222.93"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://KevinHegg.github.io/kjhtest/second-test/canvas-1/canvas/speaker-annotation-129.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Speaker Unknown",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://KevinHegg.github.io/kjhtest/second-test/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "2226.62,2227.43"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://KevinHegg.github.io/kjhtest/second-test/canvas-1/canvas/speaker-annotation-130.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color='indigo'><b>Elizabeth Alexander</b></font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://KevinHegg.github.io/kjhtest/second-test/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "2227.88,2229.65"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://KevinHegg.github.io/kjhtest/second-test/canvas-1/canvas/speaker-annotation-131.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Speaker Unknown",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://KevinHegg.github.io/kjhtest/second-test/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "2252.87,2265.38"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://KevinHegg.github.io/kjhtest/second-test/canvas-1/canvas/speaker-annotation-132.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color='indigo'><b>Elizabeth Alexander</b></font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://KevinHegg.github.io/kjhtest/second-test/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "2268.89,2279.75"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://KevinHegg.github.io/kjhtest/second-test/canvas-1/canvas/speaker-annotation-133.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color='indigo'><b>Elizabeth Alexander</b></font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://KevinHegg.github.io/kjhtest/second-test/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "2279.37,2292.54"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://KevinHegg.github.io/kjhtest/second-test/canvas-1/canvas/speaker-annotation-134.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color='gray'><b>Meta DuEwa Jones</b></font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://KevinHegg.github.io/kjhtest/second-test/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "2282.16,2283.27"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://KevinHegg.github.io/kjhtest/second-test/canvas-1/canvas/speaker-annotation-135.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Speaker Unknown",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://KevinHegg.github.io/kjhtest/second-test/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "2292.75,2292.93"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://KevinHegg.github.io/kjhtest/second-test/canvas-1/canvas/speaker-annotation-136.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color='gray'><b>Meta DuEwa Jones</b></font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://KevinHegg.github.io/kjhtest/second-test/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "2294.63,2296.88"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://KevinHegg.github.io/kjhtest/second-test/canvas-1/canvas/speaker-annotation-137.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Speaker Unknown",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://KevinHegg.github.io/kjhtest/second-test/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "2296.91,2298.05"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://KevinHegg.github.io/kjhtest/second-test/canvas-1/canvas/speaker-annotation-138.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color='gray'><b>Meta DuEwa Jones</b></font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://KevinHegg.github.io/kjhtest/second-test/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "2304.03,2304.36"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://KevinHegg.github.io/kjhtest/second-test/canvas-1/canvas/speaker-annotation-139.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Speaker Unknown",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://KevinHegg.github.io/kjhtest/second-test/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "2304.36,2304.84"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://KevinHegg.github.io/kjhtest/second-test/canvas-1/canvas/speaker-annotation-140.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color='gray'><b>Meta DuEwa Jones</b></font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://KevinHegg.github.io/kjhtest/second-test/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "2304.84,2305.02"
+        }
+      }
+    }
+  ]
+}
