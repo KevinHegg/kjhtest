@@ -1,0 +1,31 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://KevinHegg.github.io/kjhtest/ff031-test-w-generated-tsv-and-no-media/manifest.json",
+    "type": "Manifest",
+    "label": { "en": [ "FF031 Test w Generated TSV and no media" ] },
+    "items": [
+      {
+        "id": "https://KevinHegg.github.io/kjhtest/ff031-test-w-generated-tsv-and-no-media/canvas-1/canvas",
+        "type": "Canvas",
+        "duration": 3418,
+        "items": [
+          {
+            "id": "https://KevinHegg.github.io/kjhtest/ff031-test-w-generated-tsv-and-no-media/canvas-1/paintings",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://KevinHegg.github.io/kjhtest/ff031-test-w-generated-tsv-and-no-media/canvas-1/painting",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "",
+                    "duration": 3418
+                },
+                "target": "https://KevinHegg.github.io/kjhtest/ff031-test-w-generated-tsv-and-no-media/canvas-1/canvas"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+} 
